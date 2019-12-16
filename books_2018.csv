@@ -1,0 +1,961 @@
+,title,author,rating,pages,publisher,ISBN,genre,series,author_followers,publish_date
+0,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+1,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+2,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+3,After You,Jojo Moyes,3.72,352,Pamela Dorman Books(first published September 23rd 2015),0525426590,Fiction,0,42307,2015-09-29
+4,The Royal We,Heather Cocks,3.8,454,Grand Central Publishing,1455557102,Romance,1,728,2015-04-07
+5,A Little Life,Hanya Yanagihara,4.3,720,Doubleday,0385539258,Fiction,0,5787,2015-03-10
+6,My Grandmother Asked Me to Tell You She's Sorry,Fredrik Backman,4.05,372,Atria Books(first published September 4th 2013),1501115065,Fiction,0,23312,2015-06-16
+7,Fates and Furies,Lauren Groff,3.57,390,Riverhead Books,1594634475,Fiction,0,2968,2015-09-15
+8,Inside the O'Briens,Lisa Genova,3.99,343,Gallery Books,147671777X,comment,0,7874,2015-04-07
+9,Girl at War,Sara Nović,4.0,320,Random House,0812996348,Historical,0,556,2015-05-12
+10,Our Souls at Night,Kent Haruf,3.94,179,Knopf,1101875895,Fiction,0,1276,2015-05-26
+11,Trail of Broken Wings,Sejal Badani,4.0,378,Lake Union Publishing,1477822089,Fiction,0,717,2015-05-01
+12,The Sound of Glass,Karen   White,4.0,432,NAL(first published March 12th 2015),0451470893,Fiction,0,4348,2015-05-12
+13,Kitchens of the Great Midwest,J. Ryan Stradal,3.78,310,Pamela Dorman Books/Viking,052542914X,Fiction,0,840,2015-07-28
+14,First Frost,Sarah Addison Allen,3.96,296,St. Martin's Press,1250019834,comments,1,12791,2015-01-20
+15,The Secret Wisdom of the Earth,Christopher Scotton,4.09,466,Grand Central Publishing,1455551929,Fiction,0,350,2015-01-06
+16,Did You Ever Have a Family,Bill Clegg,3.8,293,Scout Press,1476798176,Fiction,0,366,2015-09-01
+17,When the Moon is Low,Nadia Hashimi,4.1,384,William Morrow(first published June 30th 2015),0062369571,Fiction,0,1736,2015-07-21
+18,A Spool of Blue Thread,Anne Tyler,3.41,358,Knopf,1101874279,comments,0,3990,2015-02-10
+19,The Perfect Son,Barbara Claypole White,3.97,396,Lake Union Publishing,1477830049,Fiction,0,832,2015-07-01
+20,Signs Preceding the End of the World,Yuri Herrera,3.92,114,And Other Stories(first published 2009),1908276428,Fiction,0,289,2015-03-10
+21,Purity,Jonathan Franzen,3.61,563,"Farrar, Straus and Giroux",0374239215,Fiction,0,5607,2015-09-01
+22,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+23,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+24,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+25,Finders Keepers,Stephen King,4.04,434,Scribner,1501100076,Fiction,1,673352,2015-06-02
+26,Career of Evil,Robert Galbraith,4.21,497,Mulholland Books,0316349933,Mystery,0,21331,2015-10-20
+27,Obsession in Death,J.D. Robb,4.35,404,Berkley(first published January 12th 2015),0399170871,Mystery,1,16318,2015-02-10
+28,Pretty Girls,Karin Slaughter,3.99,396,William Morrow(first published July 2nd 2015),0062429051,Thriller,0,24616,2015-09-29
+29,Marrow,Tarryn Fisher,3.99,278,,English,Thriller,0,16176,2015-04-16
+30,The Nature of the Beast,Louise Penny,4.22,376,Minotaur Books,1250022088,Mystery,1,10887,2015-08-25
+31,The English Spy,Daniel Silva,4.18,484,Harper,0062320130,Thriller,1,5504,2015-06-30
+32,Die Again,Tess Gerritsen,4.18,330,Ballantine Books,0345543858,Mystery,1,13449,2014-12-30
+33,The Stranger,Harlan Coben,3.87,386,Dutton,0525953507,Add,0,17541,2015-03-24
+34,Mr. Kiss and Tell,Rob Thomas,4.0,330,Vintage Books,080417072X,Mystery,1,1077,2015-01-20
+35,Memory Man,David Baldacci,4.07,416,Grand Central Publishing,1455559822,Mystery,1,108252,2015-04-21
+36,Lamentation,C.J. Sansom,4.4,656,Mulholland Books(first published October 23rd 2014),0316254967,Historical,1,2700,2015-02-24
+37,The Girl in the Spider's Web,David Lagercrantz,3.76,400,Knopf(first published August 27th 2015),0385354282,comment,1,1973,2015-09-01
+38,The Escape,David Baldacci,4.16,470,Grand Central Publishing(first published September 16th 2014),1455521191,Thriller,1,108252,2014-11-18
+39,The Kind Worth Killing,Peter  Swanson,4.03,311,William Morrow,0062267523,Thriller,0,3608,2015-02-03
+40,Gathering Prey,John Sandford,4.2,407,G.P. Putnam's Sons,0399168796,Mystery,1,6067,2015-04-28
+41,The Cartel,Don Winslow,4.32,616,Knopf(first published May 22nd 2015),1101874996,Fiction,1,3185,2015-06-23
+42,As Chimney Sweepers Come to Dust,Alan Bradley,3.95,392,Delacorte Press,0345539931,Mystery,1,6978,2015-01-06
+43,Luckiest Girl Alive,Jessica Knoll,3.49,352,Simon  Schuster,1476789630,comments,0,2297,2015-05-12
+44,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115994,2015-02-03
+45,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115994,2015-02-03
+46,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115994,2015-02-03
+47,A God in Ruins,Kate Atkinson,3.94,468,"Little, Brown and Company(first published May 1st 2015)",0316176532,Fiction,1,7514,2015-05-05
+48,At the Water's Edge,Sara Gruen,3.66,348,Spiegel & Grau,0385523238,Add,0,5340,2015-03-31
+49,Rebel Queen,Michelle Moran,4.04,355,Atria Books,1476716358,Historical,0,4250,2015-03-03
+50,In the Unlikely Event,Judy Blume,3.52,402,Knopf,1101875046,Fiction,0,8049,2015-06-02
+51,The Boston Girl,Anita Diamant,3.81,320,Scribner,1439199353,Add,0,3120,2014-12-09
+52,Secrets of a Charmed Life,Susan Meissner,4.19,386,NAL,0451419928,Historical,0,3251,2015-02-03
+53,The Marriage of Opposites,Alice Hoffman,3.88,371,Simon  Schuster(first published August 1st 2015),1451693591,Historical,0,11547,2015-08-04
+54,Circling the Sun,Paula McLain,3.93,366,Ballantine Books(first published July 7th 2015),0345534182,Historical,0,3300,2015-07-28
+55,A Desperate Fortune,Susanna Kearsley,4.0,528,Sourcebooks Landmark,1492602027,Historical,0,6387,2015-04-07
+56,The Architect's Apprentice,Elif Shafak,3.98,432,Viking(first published December 13th 2013),052542797X,Historical,0,15130,2015-03-31
+57,The Taming of the Queen,Philippa Gregory,3.93,450,Touchstone(first published August 2015),1476758794,comments,1,25877,2015-08-25
+58,The Lake House,Kate Morton,4.05,492,Atria Books(first published October 2015),1451649320,comments,0,16072,2015-10-20
+59,Letters to the Lost,Iona Grey,4.16,384,Thomas Dunne Books(first published April 2015),1250066778,Historical,0,410,2015-05-26
+60,The Bookseller,Cynthia Swanson,3.67,339,Harper,0062333003,Fiction,0,635,2015-03-03
+61,Epitaph,Mary Doria Russell,4.11,581,Ecco,0062198769,Historical,1,2160,2015-03-03
+62,The Gilded Hour,Sara Donati,4.04,741,Berkley,0425271811,Historical,1,2262,2015-09-01
+63,Mademoiselle Chanel,C.W. Gortner,4.07,406,William Morrow,0062356402,Historical,0,1702,2015-03-17
+64,Girl Waits with Gun,Amy  Stewart,3.76,408,Houghton Mifflin Harcourt,0544409914,Historical,1,1963,2015-09-01
+65,Flood of Fire,Amitav Ghosh,4.11,624,"Farrar, Straus and Giroux(first published 2015)",0374174245,Historical,1,2376,2015-08-04
+66,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196561,2015-02-03
+67,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196561,2015-02-03
+68,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196561,2015-02-03
+69,A Darker Shade of Magic,V.E. Schwab,4.09,400,Tor Books,0765376458,comments,1,22622,2015-02-24
+70,Shadows of Self,Brandon Sanderson,4.3,383,Tor Books,0765378558,Fantasy,1,119645,2015-10-06
+71,Magic Shifts,Ilona Andrews,4.46,342,Ace,042527067X,Fantasy,1,22829,2015-08-04
+72,The Aeronaut's Windlass,Jim Butcher,4.18,630,Roc,0451466802,Fantasy,1,38455,2015-09-29
+73,Fool's Quest,Robin Hobb,4.52,768,Del Rey,0553392921,Fantasy,1,77136,2015-08-11
+74,Vision in Silver,Anne Bishop,4.27,400,Roc,045146527X,Fantasy,1,8194,2015-03-03
+75,Dead Heat,Patricia Briggs,4.3,324,Ace,0425256758,Fantasy,1,23132,2015-03-03
+76,Burned,Karen Marie Moning,4.14,475,Delacorte Press,0385344414,comment,1,25436,2015-01-20
+77,The Fifth Season,N.K. Jemisin,4.31,468,Orbit,English,Fantasy,0,20672,2015-08-04
+78,The Invasion of the Tearling,Erika Johansen,4.12,515,Harper,0062290398,Fantasy,1,4056,2015-06-09
+79,The Liar's Key,Mark  Lawrence,4.26,479,Ace,0425268802,Fantasy,1,44517,2015-06-02
+80,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+81,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+82,Go Set a Watchman,Harper Lee,3.31,278,HarperCollins,0062409859,Fiction,1,10648,2015-07-14
+83,After You,Jojo Moyes,3.72,352,Pamela Dorman Books(first published September 23rd 2015),0525426590,Fiction,0,42307,2015-09-29
+84,The Royal We,Heather Cocks,3.8,454,Grand Central Publishing,1455557102,Romance,1,728,2015-04-07
+85,A Little Life,Hanya Yanagihara,4.3,720,Doubleday,0385539258,Fiction,0,5787,2015-03-10
+86,My Grandmother Asked Me to Tell You She's Sorry,Fredrik Backman,4.05,372,Atria Books(first published September 4th 2013),1501115065,Fiction,0,23312,2015-06-16
+87,Fates and Furies,Lauren Groff,3.57,390,Riverhead Books,1594634475,Fiction,0,2968,2015-09-15
+88,Inside the O'Briens,Lisa Genova,3.99,343,Gallery Books,147671777X,comment,0,7874,2015-04-07
+89,Girl at War,Sara Nović,4.0,320,Random House,0812996348,Historical,0,556,2015-05-12
+90,Our Souls at Night,Kent Haruf,3.94,179,Knopf,1101875895,Fiction,0,1276,2015-05-26
+91,Trail of Broken Wings,Sejal Badani,4.0,378,Lake Union Publishing,1477822089,Fiction,0,717,2015-05-01
+92,The Sound of Glass,Karen   White,4.0,432,NAL(first published March 12th 2015),0451470893,Fiction,0,4348,2015-05-12
+93,Kitchens of the Great Midwest,J. Ryan Stradal,3.78,310,Pamela Dorman Books/Viking,052542914X,Fiction,0,840,2015-07-28
+94,First Frost,Sarah Addison Allen,3.96,296,St. Martin's Press,1250019834,comments,1,12791,2015-01-20
+95,The Secret Wisdom of the Earth,Christopher Scotton,4.09,466,Grand Central Publishing,1455551929,Fiction,0,350,2015-01-06
+96,Did You Ever Have a Family,Bill Clegg,3.8,293,Scout Press,1476798176,Fiction,0,366,2015-09-01
+97,When the Moon is Low,Nadia Hashimi,4.1,384,William Morrow(first published June 30th 2015),0062369571,Fiction,0,1736,2015-07-21
+98,A Spool of Blue Thread,Anne Tyler,3.41,358,Knopf,1101874279,comments,0,3990,2015-02-10
+99,The Perfect Son,Barbara Claypole White,3.97,396,Lake Union Publishing,1477830049,Fiction,0,832,2015-07-01
+100,Signs Preceding the End of the World,Yuri Herrera,3.92,114,And Other Stories(first published 2009),1908276428,Fiction,0,289,2015-03-10
+101,Purity,Jonathan Franzen,3.61,563,"Farrar, Straus and Giroux",0374239215,Fiction,0,5607,2015-09-01
+102,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+103,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+104,The Girl on the Train,Paula Hawkins,3.91,336,Riverhead Books,1594633665,comments,0,22987,2015-01-13
+105,Finders Keepers,Stephen King,4.04,434,Scribner,1501100076,Fiction,1,673353,2015-06-02
+106,Career of Evil,Robert Galbraith,4.21,497,Mulholland Books,0316349933,Mystery,0,21331,2015-10-20
+107,Obsession in Death,J.D. Robb,4.35,404,Berkley(first published January 12th 2015),0399170871,Mystery,1,16319,2015-02-10
+108,Pretty Girls,Karin Slaughter,3.99,396,William Morrow(first published July 2nd 2015),0062429051,Thriller,0,24618,2015-09-29
+109,Marrow,Tarryn Fisher,3.99,278,,English,Thriller,0,16176,2015-04-16
+110,The Nature of the Beast,Louise Penny,4.22,376,Minotaur Books,1250022088,Mystery,1,10887,2015-08-25
+111,The English Spy,Daniel Silva,4.18,484,Harper,0062320130,Thriller,1,5504,2015-06-30
+112,Die Again,Tess Gerritsen,4.18,330,Ballantine Books,0345543858,Mystery,1,13449,2014-12-30
+113,The Stranger,Harlan Coben,3.87,386,Dutton,0525953507,Add,0,17541,2015-03-24
+114,Mr. Kiss and Tell,Rob Thomas,4.0,330,Vintage Books,080417072X,Mystery,1,1077,2015-01-20
+115,Memory Man,David Baldacci,4.07,416,Grand Central Publishing,1455559822,Mystery,1,108252,2015-04-21
+116,Lamentation,C.J. Sansom,4.4,656,Mulholland Books(first published October 23rd 2014),0316254967,Historical,1,2700,2015-02-24
+117,The Girl in the Spider's Web,David Lagercrantz,3.76,400,Knopf(first published August 27th 2015),0385354282,comment,1,1973,2015-09-01
+118,The Escape,David Baldacci,4.16,470,Grand Central Publishing(first published September 16th 2014),1455521191,Thriller,1,108252,2014-11-18
+119,The Kind Worth Killing,Peter  Swanson,4.03,311,William Morrow,0062267523,Thriller,0,3608,2015-02-03
+120,Gathering Prey,John Sandford,4.2,407,G.P. Putnam's Sons,0399168796,Mystery,1,6067,2015-04-28
+121,The Cartel,Don Winslow,4.32,616,Knopf(first published May 22nd 2015),1101874996,Fiction,1,3185,2015-06-23
+122,As Chimney Sweepers Come to Dust,Alan Bradley,3.95,392,Delacorte Press,0345539931,Mystery,1,6978,2015-01-06
+123,Luckiest Girl Alive,Jessica Knoll,3.49,352,Simon  Schuster,1476789630,comments,0,2297,2015-05-12
+124,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115995,2015-02-03
+125,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115995,2015-02-03
+126,The Nightingale,Kristin Hannah,4.57,440,St. Martin's Press,0312577222,Historical,0,115995,2015-02-03
+127,A God in Ruins,Kate Atkinson,3.94,468,"Little, Brown and Company(first published May 1st 2015)",0316176532,Fiction,1,7514,2015-05-05
+128,At the Water's Edge,Sara Gruen,3.66,348,Spiegel & Grau,0385523238,Add,0,5340,2015-03-31
+129,Rebel Queen,Michelle Moran,4.04,355,Atria Books,1476716358,Historical,0,4250,2015-03-03
+130,In the Unlikely Event,Judy Blume,3.52,402,Knopf,1101875046,Fiction,0,8049,2015-06-02
+131,The Boston Girl,Anita Diamant,3.81,320,Scribner,1439199353,Add,0,3120,2014-12-09
+132,Secrets of a Charmed Life,Susan Meissner,4.19,386,NAL,0451419928,Historical,0,3251,2015-02-03
+133,The Marriage of Opposites,Alice Hoffman,3.88,371,Simon  Schuster(first published August 1st 2015),1451693591,Historical,0,11547,2015-08-04
+134,Circling the Sun,Paula McLain,3.93,366,Ballantine Books(first published July 7th 2015),0345534182,Historical,0,3300,2015-07-28
+135,A Desperate Fortune,Susanna Kearsley,4.0,528,Sourcebooks Landmark,1492602027,Historical,0,6387,2015-04-07
+136,The Architect's Apprentice,Elif Shafak,3.98,432,Viking(first published December 13th 2013),052542797X,Historical,0,15130,2015-03-31
+137,The Taming of the Queen,Philippa Gregory,3.93,450,Touchstone(first published August 2015),1476758794,comments,1,25878,2015-08-25
+138,The Lake House,Kate Morton,4.05,492,Atria Books(first published October 2015),1451649320,comments,0,16071,2015-10-20
+139,Letters to the Lost,Iona Grey,4.16,384,Thomas Dunne Books(first published April 2015),1250066778,Historical,0,410,2015-05-26
+140,The Bookseller,Cynthia Swanson,3.67,339,Harper,0062333003,Fiction,0,635,2015-03-03
+141,Epitaph,Mary Doria Russell,4.11,581,Ecco,0062198769,Historical,1,2160,2015-03-03
+142,The Gilded Hour,Sara Donati,4.04,741,Berkley,0425271811,Historical,1,2262,2015-09-01
+143,Mademoiselle Chanel,C.W. Gortner,4.07,406,William Morrow,0062356402,Historical,0,1702,2015-03-17
+144,Girl Waits with Gun,Amy  Stewart,3.76,408,Houghton Mifflin Harcourt,0544409914,Historical,1,1963,2015-09-01
+145,Flood of Fire,Amitav Ghosh,4.11,624,"Farrar, Straus and Giroux(first published 2015)",0374174245,Historical,1,2376,2015-08-04
+146,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196562,2015-02-03
+147,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196562,2015-02-03
+148,Trigger Warning: Short Fictions and Disturbances,Neil Gaiman,3.93,310,William Morrow,0062330268,Fantasy,1,196562,2015-02-03
+149,A Darker Shade of Magic,V.E. Schwab,4.09,400,Tor Books,0765376458,comments,1,22622,2015-02-24
+150,Shadows of Self,Brandon Sanderson,4.3,383,Tor Books,0765378558,Fantasy,1,119647,2015-10-06
+151,Magic Shifts,Ilona Andrews,4.46,342,Ace,042527067X,Fantasy,1,22829,2015-08-04
+152,The Aeronaut's Windlass,Jim Butcher,4.18,630,Roc,0451466802,Fantasy,1,38455,2015-09-29
+153,Fool's Quest,Robin Hobb,4.52,768,Del Rey,0553392921,Fantasy,1,77136,2015-08-11
+154,Vision in Silver,Anne Bishop,4.27,400,Roc,045146527X,Fantasy,1,8194,2015-03-03
+155,Dead Heat,Patricia Briggs,4.3,324,Ace,0425256758,Fantasy,1,23132,2015-03-03
+156,Burned,Karen Marie Moning,4.14,475,Delacorte Press,0385344414,comment,1,25436,2015-01-20
+157,The Fifth Season,N.K. Jemisin,4.31,468,Orbit,English,Fantasy,0,20672,2015-08-04
+158,The Invasion of the Tearling,Erika Johansen,4.12,515,Harper,0062290398,Fantasy,1,4056,2015-06-09
+159,The Liar's Key,Mark  Lawrence,4.26,479,Ace,0425268802,Fantasy,1,44517,2015-06-02
+160,The Buried Giant,Kazuo Ishiguro,3.49,317,Knopf,030727103X,comments,0,13248,
+161,Yield the Night,Annette Marie,4.37,278,Annette Marie(first published March 18th 2015),B00RH8BZOI,Fantasy,1,3100,2015-03-27
+162,The Skull Throne,Peter V. Brett,4.14,681,Del Rey,0345531485,Fantasy,1,9976,2015-03-31
+163,The Mime Order,Samantha Shannon,4.19,510,Bloomsbury,1408857391,Fantasy,1,7116,2015-01-27
+164,The Autumn Republic,Brian  McClellan,4.37,580,Orbit,0316219126,Fantasy,1,5170,2015-02-10
+165,Recurve,Shannon Mayer,3.93,242,"Hijinks Ink Publishing, Ltd.",B00TKK41LA,Fantasy,1,3288,2015-03-31
+166,Boundary Crossed,Melissa F. Olson,4.0,302,47North,1477849432,Fantasy,1,1399,2015-05-01
+167,The Providence of Fire,Brian Staveley,4.13,608,Tor Books(first published 2015),0765336413,Fantasy,1,3147,2015-01-13
+168,Confess,Colleen Hoover,4.23,306,Atria Books,1476791457,Romance,0,327196,2015-03-10
+169,Confess,Colleen Hoover,4.23,306,Atria Books,1476791457,Romance,0,327196,2015-03-10
+170,Confess,Colleen Hoover,4.23,306,Atria Books,1476791457,Romance,0,327196,2015-03-10
+171,Grey,E.L. James,3.78,576,Vintage,1101946342,Romance,1,50428,2015-06-18
+172,The Shadows,J.R. Ward,4.31,576,NAL,0451417070,Fantasy,0,41170,2015-03-31
+173,The Deal,Elle Kennedy,4.28,342,Elle Kennedy Inc.,English,Romance,0,18454,2015-02-24
+174,Captivated by You,Sylvia Day,4.09,356,Berkley,0425273865,Add,1,115036,2014-11-18
+175,Wicked,Jennifer L. Armentrout,4.05,375,Jennifer L. Armentrout,0988982951,New,1,53448,2014-12-08
+176,Ride Steady,Kristen Ashley,4.44,640,Forever,145553322X,Romance,1,32848,2015-06-30
+177,The Secret of Pembrooke Park,Julie Klassen,4.01,464,Bethany House Publishers(first published November 25th 2014),0764212788,comments,0,3304,2014-12-02
+178,Beautiful Redemption,Jamie McGuire,4.14,260,Jamie McGuire,1502541858,Romance,1,38116,2015-01-27
+179,Never Judge a Lady by Her Cover,Sarah MacLean,3.95,376,Avon,0062068512,Romance,1,7985,2014-11-25
+180,The Liar,Nora Roberts,3.98,501,Berkley,0399170863,Romance,0,36130,2015-04-14
+181,The Law of Moses,Amy Harmon,4.36,359,Amy Harmon(first published November 18th 2014),B00PKSZ78M,Romance,1,11788,2014-11-27
+182,Souls Unfractured,Tillie Cole,4.48,371,Tillie Cole,B013OJYRJI,Romance,1,12439,2015-08-09
+183,Deep,Kylie Scott,4.07,272,St. Martin's Griffin(first published March 10th 2015),1250052394,Romance,1,13583,2015-03-31
+184,Him,Sarina Bowen,4.33,360,Rennie Road Books(first published July 28th 2015),1942444087,Romance,1,8789,2015-08-02
+185,Hero,Samantha Young,4.08,410,Berkley Books,0451475607,comments,1,21065,2015-02-03
+186,The Air He Breathes,Brittainy C. Cherry,4.2,308,,English,Romance,0,8726,2015-09-25
+187,Hollywood Dirt,Alessandra Torre,4.1,430,Everafter Romance,1940941717,Romance,1,11752,2015-09-07
+188,Thoughtful,S.C. Stephens,4.23,560,Forever,English,Romance,0,16619,2015-02-24
+189,Consolation,Corinne Michaels,4.36,302,Baae Publishing,1942834055,Romance,1,7782,2015-02-26
+190,Golden Son,Pierce Brown,4.45,442,Del Rey,0345539818,Science,1,24063,2015-01-06
+191,Golden Son,Pierce Brown,4.45,442,Del Rey,0345539818,Science,1,24063,2015-01-06
+192,Golden Son,Pierce Brown,4.45,442,Del Rey,0345539818,Science,1,24063,2015-01-06
+193,Seveneves,Neal Stephenson,3.99,867,Harper Collins,0062190377,Add,0,19398,2015-05-19
+194,The Heart Goes Last,Margaret Atwood,3.37,320,Nan A. Talese(first published September 24th 2015),0385540353,Fiction,1,55649,2015-09-29
+195,Welcome to Night Vale,Joseph Fink,3.84,401,Harper Perennial(first published September 20th 2015),0062351427,Fantasy,1,1427,2015-10-20
+196,The Water Knife,Paolo Bacigalupi,3.83,371,Knopf,0385352875,Science,0,3811,2015-05-26
+197,Armada,Ernest Cline,3.52,355,Crown Publishing,0804137250,Science,0,20749,2015-07-14
+198,Star Wars: Aftermath,Chuck Wendig,3.21,366,Del Rey,034551162X,Media,1,3689,2015-09-04
+199,Ancillary Mercy,Ann Leckie,4.21,330,Orbit,0316246689,Science,1,5345,2015-10-06
+200,The End of All Things,John Scalzi,3.97,380,Tor Books,0765376075,Science,1,16650,2015-08-11
+201,The Fold,Peter Clines,3.85,384,Crown,0553418297,Science,1,3168,2015-06-02
+202,Nemesis Games,James S.A. Corey,4.4,544,Orbit(first published June 2nd 2015),0356504220,Science,1,11986,2015-06-04
+203,Beacon 23,Hugh Howey,3.91,254,Createspace,1516865871,Science,1,51970,2015-08-12
+204,The Dark Forest,Liu Cixin,4.41,512,Tor Books(first published May 2008),English,Science,0,5608,2015-08-11
+205,Strands of Sorrow,John Ringo,4.33,352,Baen(first published December 15th 2014),1476736952,Science,1,1508,2015-01-06
+206,Warship,Joshua Dalzelle,4.04,320,Createspace Independent Publishing Platform(first published January 3rd 2015),1507587317,Science,1,818,2015-01-16
+207,Apex,Ramez Naam,4.17,608,Angry Robot(first published 2015),0857664018,Science,1,1215,2015-05-05
+208,BrainWeb,Douglas E. Richards,4.11,360,Paragon Press,English,Science,0,980,2015-02-10
+209,Angles of Attack,Marko Kloos,4.11,350,47North,Frontlines #3,Science,0,1885,2015-04-21
+210,King of Thieves,Evan Currie,4.06,352,47North,English,Science,0,1436,2015-03-31
+211,Aurora,Kim Stanley Robinson,3.74,466,Orbit,0316098108,Science,0,3949,2015-07-07
+212,Saint Odd,Dean Koontz,4.15,339,Bantam(first published January 8th 2015),0345545877,Add,1,24947,2015-01-13
+213,Saint Odd,Dean Koontz,4.15,339,Bantam(first published January 8th 2015),0345545877,Add,1,24947,2015-01-13
+214,Saint Odd,Dean Koontz,4.15,339,Bantam(first published January 8th 2015),0345545877,Add,1,24947,2015-01-13
+215,Alice,Christina Henry,3.87,291,Ace,0425266796,Fantasy,1,3504,2015-08-04
+216,The Last American Vampire,Seth Grahame-Smith,3.98,399,Grand Central Publishing,145550212X,Horror,1,2426,2015-01-13
+217,Slade House,David Mitchell,3.81,238,Random House(first published October 20th 2015),0812998685,Horror,0,10629,2015-10-27
+218,Thicker Than Blood,Madeline Sheehan,3.95,366,Createspace,1505972612,Horror,1,6712,2015-01-12
+219,The Ice Twins,S.K. Tremayne,3.65,373,Harper Collins,0007563035,Thriller,0,910,2015-01-29
+220,The Night Sister,Jennifer  McMahon,3.68,322,Doubleday,0385538510,Horror,0,4242,2015-08-04
+221,Follow You Home,Mark  Edwards,3.89,400,Thomas & Mercer,1503944379,Mystery,0,2889,2015-06-30
+222,A Head Full of Ghosts,Paul Tremblay,3.8,286,William Morrow,0062363239,Horror,0,3876,2015-06-02
+223,Rolling in the Deep,Mira Grant,4.01,123,Subterranean Press,159606708X,Horror,1,4063,2015-04-06
+224,Twisted,Andrew E. Kaufman,3.77,336,Thomas & Mercer,1477829482,Horror,0,605,2015-04-07
+225,The Scarlet Gospels,Clive Barker,3.47,361,St. Martin's Press(first published May 15th 2015),1250055806,Horror,0,9643,2015-05-19
+226,Suicide Forest,Jeremy Bates,3.68,426,Ghillinnein Books(first published December 14th 2014),0993764681,Add,1,975,2015-02-23
+227,Abomination,Gary Whitta,3.64,352,Inkshares,1941758339,Fantasy,0,322,2015-07-29
+228,The Annihilation Score,Charles Stross,3.9,416,Ace(first published July 2015),0425281175,Fantasy,1,4655,2015-07-07
+229,The Border,Robert R. McCammon,3.84,456,Subterranean Press(first published May 1st 2015),B00WRKB1D6,Horror,0,3409,2015-05-25
+230,Blood Infernal,James Rollins,4.25,406,William Morrow,English,Thriller,1,9843,2015-02-10
+231,Extinction Horizon,Nicholas Sansbury Smith,3.95,351,,B00QJKUF1E,Horror,1,1204,
+232,The Deep,Nick Cutter,3.37,394,Gallery Books,1476717737,Horror,0,2350,2015-01-13
+233,Day Four,Sarah Lotz,3.3,342,"Little, Brown and Company(first published May 21st 2015)",0316242942,Horror,1,493,2015-06-16
+234,Why Not Me?,Mindy Kaling,3.9,228,Crown Archetype,0804138141,Add,0,234609,2015-09-15
+235,Why Not Me?,Mindy Kaling,3.9,228,Crown Archetype,0804138141,Add,0,234609,2015-09-15
+236,Why Not Me?,Mindy Kaling,3.9,228,Crown Archetype,0804138141,Add,0,234609,2015-09-15
+237,You're Never Weird on the Internet (Almost),Felicia Day,4.13,272,Gallery Books,1476785651,comments,0,125887,2015-08-11
+238,Furiously Happy: A Funny Book About Horrible Things,Jenny  Lawson,3.92,329,Flatiron Books,1250077001,Nonfiction,0,9925,2015-09-22
+239,Binge,Tyler Oakley,4.24,320,Gallery Books,1501117696,Nonfiction,0,1598,2015-10-20
+240,"Yes, My Accent Is Real: and Some Other Things I Haven't Told You",Kunal Nayyar,3.75,245,Atria Books,1476761825,Nonfiction,0,74,2015-09-15
+241,The Fangirl's Guide to the Galaxy: A Handbook for Girl Geeks,Sam Maggs,3.7,208,Quirk Books,159474789X,Nonfiction,0,597,2015-05-12
+242,I Hate Myselfie: A Collection of Essays,Shane Dawson,4.21,228,Atria/Keywords Press,1476791546,comments,0,1325,2015-03-10
+243,The Amazing Book is Not on Fire: The World of Dan and Phil,Dan Howell,4.47,224,Random House Books for Young Readers(first published October 8th 2015),1101939842,Nonfiction,0,1696,2015-10-13
+244,"Fat Girl Walking: Sex, Food, Love, and Being Comfortable in Your Skin...Every Inch of It",Brittany Gibbons,3.92,240,Dey Street Books(first published January 1st 2015),0062343033,Add,0,278,2015-05-19
+245,Selp-Helf,Miranda Sings,4.29,231,Gallery Books,1501117947,Humor,0,463,2015-07-21
+246,"We Should Hang Out Sometime: Embarrassingly, a True Story",Josh Sundquist,3.82,326,"Little, Brown Books for Young Readers",031625102X,Nonfiction,0,939,2014-12-23
+247,You Deserve a Drink: Boozy Misadventures and Tales of Debauchery,Mamrie Hart,4.19,274,Plume,0142181676,Nonfiction,0,361,
+248,I Regret Nothing,Jen Lancaster,3.87,320,NAL(first published January 1st 2015),0451471075,Nonfiction,0,3766,2015-05-05
+249,Silver Screen Fiend: Learning About Life from an Addiction to Film,Patton Oswalt,3.62,222,Scribner,1451673213,Nonfiction,0,416,2015-01-06
+250,Has Anyone Seen My Pants?,Sarah Colonna,3.83,288,Gallery Books(first published March 17th 2015),1476771928,Humor,0,84,2015-03-31
+251,The Seven Good Years,Etgar Keret,4.15,173,Riverhead Books(first published 2013),1594633266,Nonfiction,0,1626,2015-06-16
+252,Gumption: Relighting the Torch of Freedom with America's Gutsiest Troublemakers,Nick Offerman,3.73,400,Dutton,0525954678,Nonfiction,0,878,2015-05-26
+253,This Book Loves You,PewDiePie,3.86,240,Razorbill,1101999047,Humor,0,704,2015-10-20
+254,The Misadventures of Awkward Black Girl,Issa Rae,3.74,224,37 Ink(first published January 6th 2015),1476749051,Add,0,704,2015-02-10
+255,Sick in the Head: Conversations About Life and Comedy,Judd Apatow,3.65,489,Random House,0812997573,Nonfiction,0,163,2015-06-16
+256,Modern Romance,Aziz Ansari,3.83,279,Penguin Press,1594206279,comment,0,1223,2015-06-16
+257,Modern Romance,Aziz Ansari,3.83,279,Penguin Press,1594206279,comment,0,1223,2015-06-16
+258,Modern Romance,Aziz Ansari,3.83,279,Penguin Press,1594206279,comment,0,1223,2015-06-16
+259,Humans of New York: Stories,Brandon Stanton,4.53,428,Macmillan Australia,1250058902,Nonfiction,0,484,2015-10-13
+260,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,3.92,288,Riverhead Books,1594634718,comments,0,23431,2015-09-22
+261,Between the World and Me,Ta-Nehisi Coates,4.4,152,Spiegel & Grau,0812993543,Nonfiction,0,8416,2015-07-14
+262,H Is for Hawk,Helen Macdonald,3.73,300,Grove Press(first published July 31st 2014),English,Nonfiction,0,836,2015-03-03
+263,Missoula: Rape and the Justice System in a College Town,Jon Krakauer,4.09,368,Doubleday,0385538731,Nonfiction,0,9502,2015-04-21
+264,"Pirate Hunters: Treasure, Obsession, and the Search for a Legendary Pirate Ship",Robert Kurson,3.99,275,Random House,1400063361,Nonfiction,0,460,2015-06-16
+265,So You've Been Publicly Shamed,Jon Ronson,3.94,290,Riverhead Books(first published March 9th 2015),1594487138,Nonfiction,0,4010,2015-03-31
+266,For the Love: Fighting for Grace in a World of Impossible Standards,Jen Hatmaker,4.1,224,Thomas Nelson(first published August 1st 2015),0718031822,Nonfiction,0,1668,2015-08-18
+267,Rising Strong,Brené Brown,4.24,336,Spiegel & Grau,0812995821,Nonfiction,0,18203,2015-08-25
+268,Ghettoside: A True Story of Murder in America,Jill Leovy,4.11,366,Spiegel & Grau,0385529988,Nonfiction,0,98,2015-01-27
+269,Guantánamo Diary,Mohamedou Ould Slahi,4.07,379,"Little, Brown and Company",0316328685,Nonfiction,0,66,2015-01-20
+270,The Crossroads of Should and Must: Find and Follow Your Passion,Elle Luna,4.02,161,Workman Publishing Company,0761184880,Nonfiction,0,54,2015-04-07
+271,The Unspeakable: And Other Subjects of Discussion,Meghan Daum,3.75,256,"Farrar, Straus and Giroux",0374280444,Nonfiction,0,307,2014-11-18
+272,Better Than Before: Mastering the Habits of Our Everyday Lives,Gretchen Rubin,3.84,298,Crown,0385348614,Nonfiction,1,26313,2015-03-17
+273,One of Us: The Story of Anders Breivik and the Massacre in Norway,Åsne Seierstad,4.37,530,"Farrar, Straus and Giroux(first published 2013)",0374277893,Nonfiction,0,566,2015-04-21
+274,Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead,Laszlo Bock,4.17,406,Twelve(first published January 1st 2015),1455554790,Business,0,167,2015-04-07
+275,Chasing the Scream: The First and Last Days of the War on Drugs,Johann Hari,4.48,400,Bloomsbury USA(first published January 15th 2015),1620408902,Nonfiction,0,602,2015-01-20
+276,When to Rob a Bank,Steven D. Levitt,3.49,387,William Morrow,0062385321,Nonfiction,0,2594,2015-05-05
+277,The Road to Character,David  Brooks,3.66,320,Random House(first published March 10th 2015),081299325X,Nonfiction,0,975,2015-04-14
+278,A Work in Progress,Connor Franta,4.28,212,Atria/Keywords Press,1476791619,Nonfiction,0,1683,2015-04-21
+279,A Work in Progress,Connor Franta,4.28,212,Atria/Keywords Press,1476791619,Nonfiction,0,1683,2015-04-21
+280,A Work in Progress,Connor Franta,4.28,212,Atria/Keywords Press,1476791619,Nonfiction,0,1683,2015-04-21
+281,In Real Life: My Journey to a Pixelated World,Joey Graceffa,4.37,257,Atria/Keywords Press,1476794308,Nonfiction,0,1018,2015-05-19
+282,"American Wife: Love, War, Faith, and Renewal",Taya Kyle,4.26,329,William Morrow(first published May 1st 2015),0062398083,Nonfiction,0,66,2015-05-04
+283,The Girl with Seven Names: A North Korean Defector’s Story,Hyeonseo Lee,4.44,304,William Collins,0007554834,comment,0,715,2015-07-02
+284,M Train,Patti Smith,3.99,256,Knopf,1101875100,Nonfiction,0,6076,2015-10-06
+285,My Fight / Your Fight,Ronda Rousey,4.19,302,Regan Arts.(first published April 15th 2015),1941393268,Nonfiction,0,150,2015-05-12
+286,It's What I Do: A Photographer's Life of Love and War,Lynsey Addario,4.33,368,Penguin Press,159420537X,Add,0,147,2015-02-05
+287,Hope: A Memoir of Survival in Cleveland,Amanda Berry,4.29,321,Viking,0525427651,Nonfiction,0,48,2015-04-27
+288,Every Day I Fight,Stuart  Scott,4.38,320,Blue Rider Press,0399174060,Nonfiction,0,14,2015-03-10
+289,Blackout: Remembering the Things I Drank to Forget,Sarah Hepola,3.99,230,Grand Central Publishing,1455554596,Autobiography,0,229,2015-06-23
+290,"Searching for Sunday: Loving, Leaving, and Finding the Church",Rachel Held Evans,4.17,268,Thomas Nelson,0718022122,Nonfiction,0,979,2015-04-14
+291,Born with Teeth,Kate Mulgrew,3.89,302,"Little, Brown and Company",0316334316,comments,0,281,2015-04-14
+292,If You Feel Too Much: Thoughts on Things Found and Lost and Hoped For,Jamie Tworkowski,4.18,208,TarcherPerigee(first published May 12th 2015),0399176497,Nonfiction,0,169,2015-05-26
+293,All I Know Now: Wonderings and Reflections on Growing Up Gracefully,Carrie Hope Fletcher,4.08,352,The Experiment(first published April 1st 2015),1615192948,Add,0,4978,2015-09-01
+294,"Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice",Bill Browder,4.4,380,Simon  Schuster(first published 2014),147675571X,Nonfiction,0,355,2015-02-03
+295,Down the Rabbit Hole: Curious Adventures and Cautionary Tales of a Former Playboy Bunny,Holly Madison,3.42,335,Dey Street Books,0062372106,Nonfiction,0,239,2015-06-23
+296,The Argonauts,Maggie Nelson,4.03,160,Graywolf Press,1555977073,Nonfiction,0,1745,2015-05-05
+297,Spinster: Making a Life of One's Own,Kate Bolick,3.45,308,Crown,0385347138,Nonfiction,0,215,2015-04-21
+298,Girl in a Band,Kim Gordon,3.6,273,Dey Street Books(first published February 2015),0062295896,Music,0,226,2015-02-24
+299,Scary Close: Dropping the Act and Finding True Intimacy,Donald Miller,4.08,256,Thomas Nelson,078521318X,Nonfiction,0,1671,2015-02-03
+300,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,4.08,430,Crown Publishers,0307408868,comments,0,58447,2015-03-03
+301,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,4.08,430,Crown Publishers,0307408868,comments,0,58447,2015-03-03
+302,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,4.08,430,Crown Publishers,0307408868,comments,0,58447,2015-03-03
+303,"The Witches: Salem, 1692",Stacy Schiff,3.17,498,"Little, Brown and Company(first published October 20th 2015)",0316200603,History,0,1227,2015-10-27
+304,The Wright Brothers,David McCullough,4.14,320,Simon  Schuster(first published March 20th 2015),1476728747,comments,0,6869,2015-05-05
+305,Born Survivors,Wendy   Holden,4.22,385,Harper,0062370251,Add,0,114,2015-05-05
+306,Pioneer Girl: The Annotated Autobiography,Laura Ingalls Wilder,4.2,400,South Dakota State Historical Society,0984504176,Nonfiction,0,3575,2014-11-20
+307,When Books Went to War: The Stories that Helped Us Win World War II,Molly Guptill Manning,3.88,267,Houghton Mifflin Harcourt,0544535022,History,0,36,2014-12-02
+308,Romantic Outlaws: The Extraordinary Lives of Mary Wollstonecraft and Her Daughter Mary Shelley,Charlotte Gordon,4.38,649,Random House(first published April 23rd 2015),1400068428,Nonfiction,0,138,2015-04-28
+309,Ravensbrück: Life and Death in Hitler's Concentration Camp for Women,Sarah Helm,4.37,768,Nan A. Talese(first published January 1st 2015),038552059X,History,0,88,2015-03-31
+310,The Oregon Trail: A New American Journey,Rinker Buck,3.81,451,Simon  Schuster,1451659164,comment,0,98,2015-06-30
+311,Nagasaki: Life After Nuclear War,Susan Southard,4.26,389,Viking,0670025623,History,0,15,2015-07-28
+312,"The Quartet: Orchestrating the Second American Revolution, 1783-1789",Joseph J. Ellis,4.12,320,Knopf(first published May 5th 2015),0385353405,History,0,826,2015-05-12
+313,The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal,David E. Hoffman,4.21,336,Doubleday,0385537603,Add,0,168,2015-07-07
+314,Ashley's War: The Untold Story of a Team of Women Soldiers on the Special Ops Battlefield,Gayle Tzemach Lemmon,4.28,292,Harper,006233381X,Add,0,124,2015-04-21
+315,Rosemary: The Hidden Kennedy Daughter,Kate Clifford Larson,3.81,320,Houghton Mifflin Harcourt,0547250258,Nonfiction,0,66,2015-10-06
+316,"The Dead Duke, His Secret Wife, and the Missing Corpse: An Extraordinary Edwardian Case of Deception and Intrigue",Piu Marie Eatwell,3.31,352,Liveright(first published September 11th 2014),1631491237,Add,0,151,2015-10-05
+317,Killing Reagan,Bill O'Reilly,4.09,306,Henry Holt and Co.,1627792414,History,0,1896,2015-09-22
+318,"A Kim Jong-Il Production: The Extraordinary True Story of a Kidnapped Filmmaker, His Star Actress, and a Young Dictator's Rise to Power",Paul Fischer,4.16,353,Flatiron Books,1250054265,Nonfiction,0,17,2015-02-03
+319,Legend: The Incredible Story of Green Beret Sergeant Roy Benavidez's Heroic Mission to Rescue a Special Forces Team Caught Behind Enemy Lines,Eric Blehm,4.33,304,Crown Publishers/Crown Publishing Group/Penguin Random House LLC(first published April 2015),0804139512,History,0,198,2015-04-28
+320,Lafayette in the Somewhat United States,Sarah Vowell,3.83,274,Riverhead Books,1594631743,Add,0,2604,2015-10-20
+321,The Residence: Inside the Private World of the White House,Kate Andersen Brower,3.77,281,Harper,0062305190,Add,0,243,2015-04-07
+322,"Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",John Hargrove,4.25,264,St. Martin's Press(first published March 1st 2015),1137280107,Nonfiction,0,76,2015-03-24
+323,"Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",John Hargrove,4.25,264,St. Martin's Press(first published March 1st 2015),1137280107,Nonfiction,0,76,2015-03-24
+324,"Beneath the Surface: Killer Whales, SeaWorld, and the Truth Beyond Blackfish",John Hargrove,4.25,264,St. Martin's Press(first published March 1st 2015),1137280107,Nonfiction,0,76,2015-03-24
+325,Headstrong: 52 Women Who Changed Science-and the World,Rachel Swaby,3.97,288,Broadway Books,0553446797,Nonfiction,0,22,2015-04-07
+326,Voices in the Ocean: A Journey into the Wild and Haunting World of Dolphins,Susan Casey,4.04,304,Doubleday,0385537301,Nonfiction,0,210,2015-08-04
+327,"Forensics: What Bugs, Burns, Prints, DNA and More Tell Us About Crime",Val McDermid,4.04,310,Grove Press,0802123910,Nonfiction,0,2879,2014-07-07
+328,Come as You Are: The Surprising New Science that Will Transform Your Sex Life,Emily Nagoski,4.28,400,Simon  Schuster,1476762090,Add,0,499,2015-03-03
+329,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance,4.23,400,Ecco(first published March 3rd 2015),0062301233,Biography,0,1058,2015-05-19
+330,What Stands in a Storm: Three Days in the Worst Superstorm to Hit the South's Tornado Alley,Kim Cross,4.23,320,Atria Books(first published March 1st 2015),1476763062,Nonfiction,0,35,2015-03-10
+331,On the Move: A Life,Oliver Sacks,4.06,397,Knopf(first published April 2015),0385352549,Nonfiction,1,6268,2015-04-28
+332,Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life,David Perlmutter,4.02,320,"Little, Brown Spark",0316380105,Health,0,180,2015-04-28
+333,Gut: The Inside Story of Our Body’s Most Underrated Organ,Giulia Enders,4.04,273,Greystone Books(first published 2014),1771641495,Nonfiction,0,386,2015-04-10
+334,"How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",Stephen Richard Witt,4.22,296,Viking(first published June 4th 2015),0525426612,Nonfiction,0,79,2015-06-16
+335,Beyond Words: What Animals Think and Feel,Carl Safina,4.41,480,Henry Holt & Company(first published March 31st 2015),0805098887,comment,0,256,2015-07-14
+336,Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader,Brent Schlender,4.19,464,Crown Business,0385347405,Biography,0,106,2015-03-24
+337,The Soul of an Octopus: A Surprising Exploration Into the Wonder of Consciousness,Sy Montgomery,3.87,261,Atria Books,1451697716,Nonfiction,0,750,2015-05-12
+338,The Brain's Way of Healing: Remarkable Discoveries and Recoveries from the Frontiers of Neuroplasticity,Norman Doidge,4.21,409,Viking,067002550X,Nonfiction,0,428,2015-01-27
+339,"Bold: How to Go Big, Create Wealth and Impact the World",Peter H. Diamandis,4.02,336,Simon  Schuster,1476709564,Business,0,352,2015-02-03
+340,"Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It",Marc Goodman,3.94,393,Doubleday,0385539002,Nonfiction,0,88,2015-02-24
+341,"Spare Parts: Four Undocumented Teenagers, One Ugly Robot, and the Battle for the American Dream",Joshua Davis,4.13,240,FSG Originals,0374183376,Science,0,10,2014-12-02
+342,NeuroTribes: The Legacy of Autism and the Future of Neurodiversity,Steve Silberman,4.3,477,Avery/Penguin Random House LLC(first published August 2015),158333467X,Nonfiction,0,135,2015-08-25
+343,Rain: A Natural and Cultural History,Cynthia Barnett,3.85,355,Crown Publishers,0804137099,Nonfiction,0,123,2015-04-21
+344,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Ree Drummond,4.31,400,William Morrow Cookbooks,0062225243,Food,0,1403,2015-10-20
+345,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Ree Drummond,4.31,400,William Morrow Cookbooks,0062225243,Food,0,1403,2015-10-20
+346,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Ree Drummond,4.31,400,William Morrow Cookbooks,0062225243,Food,0,1403,2015-10-20
+347,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Rosanna Pansino,4.4,256,Atria Books,1501104012,Food,0,196,2015-11-03
+348,Chocolate-Covered Katie: Over 80 Delicious Recipes That Are Secretly Good for You,Katie Higgins,4.19,208,Grand Central Life & Style,1455599700,Food,0,6,2015-01-06
+349,Food52 Genius Recipes: 100 Recipes That Will Change the Way You Cook,Kristen Miglore,4.04,272,Ten Speed Press,1607747979,Food,0,14,2015-04-07
+350,"Life from Scratch: A Memoir of Food, Family, and Forgiveness",Sasha Martin,3.8,352,National Geographic,1426213743,Add,0,93,2015-03-03
+351,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Melissa Hartwig,4.06,432,Houghton Mifflin Harcourt(first published October 14th 2014),0544609719,Food,0,412,2015-04-21
+352,The Complete Vegetarian Cookbook,America's Test Kitchen,4.29,472,Cook's Illustrated,1936493969,Food,0,317,2015-03-01
+353,It Was Me All Along,Andie Mitchell,3.78,240,Clarkson Potter,0770433243,Nonfiction,0,154,2015-01-06
+354,The Dorito Effect: The Surprising New Truth About Food and Flavor,Mark Schatzker,4.01,259,Simon  Schuster,1476724210,Nonfiction,0,77,2015-05-05
+355,"But I Could Never Go Vegan!: 125 Recipes That Prove You Can Live Without Cheese, It's Not All Rabbit Food, and Your Friends Will Still Come Over for Dinner",Kristy Turner,3.81,320,The Experiment,1615192107,Food,0,20,2014-12-02
+356,"Deliciously Ella: 100+ Easy, Healthy, and Delicious Plant-Based, Gluten-Free Recipes",Ella Woodward,4.02,256,Scribner(first published January 1st 2015),147679328X,Food,0,150,2015-03-03
+357,Franklin Barbecue: A Meat-Smoking Manifesto,Aaron Franklin,4.5,224,Ten Speed Press,1607747200,Food,0,21,2015-04-07
+358,Vegan Richa's Indian Kitchen: Traditional and Creative Recipes for the Home Cook,Richa Hingle,4.45,256,"Vegan Heritage Press, LLC(first published May 5th 2015)",1941252095,Food,0,41,2015-05-19
+359,"Living the Farm Sanctuary Life: How to Eat Healthier, Live Longer, and Feel Better Every Day by Bringing Home the Happiest Place on Earth",Gene Baur,4.22,320,Rodale Books,1623364892,Nonfiction,0,63,2015-04-07
+360,Epic Tomatoes: How to Select and Grow the Best Varieties of All Time,Craig Lehoullier,4.47,256,"Storey Publishing, LLC",1612122086,Gardening,0,3,2014-12-30
+361,Pig Tales: An Omnivore's Quest for Sustainable Meat,Barry Estabrook,4.19,336,W. W. Norton  Company,039324024X,Add,0,29,2015-05-04
+362,The Food Lab: Better Home Cooking Through Science,J. Kenji López-Alt,4.5,960,W. W. Norton  Company,0393081087,Food,0,116,2015-09-21
+363,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Dave Asprey,3.75,320,Rodale Books,162336518X,Health,0,276,2014-12-02
+364,My Kitchen Year: 136 Recipes That Saved My Life,Ruth Reichl,3.84,352,Random House,140006998X,Food,0,1384,2015-09-29
+365,Bon Appetempt: A Coming-of-Age Story (with Recipes!),Amelia Morris,3.44,320,Grand Central Publishing(first published February 1st 2015),1455549363,Add,0,30,2015-02-03
+366,"Saga, Vol. 4",Brian K. Vaughan,4.46,152,Image Comics,1632150778,Sequential,0,10006,2014-12-17
+367,"Saga, Vol. 4",Brian K. Vaughan,4.46,152,Image Comics,1632150778,Sequential,0,10006,2014-12-17
+368,"Saga, Vol. 4",Brian K. Vaughan,4.46,152,Image Comics,1632150778,Sequential,0,10006,2014-12-17
+369,Nimona,Noelle Stevenson,4.17,266,HarperAlley,0062278231,Sequential,0,3082,2015-05-12
+370,"Attack on Titan, Vol. 15",Hajime Isayama,4.41,192,Kodansha Comics(first published December 9th 2014),1612629792,Sequential,1,2042,2015-03-17
+371,"Ms. Marvel, Vol. 2: Generation Why",G. Willow Wilson,4.14,136,Marvel,0785190228,Sequential,1,2490,2015-04-07
+372,"Thor, Volume 1: The Goddess of Thunder",Jason Aaron,4.1,136,Marvel(first published April 15th 2015),0785192387,Sequential,1,1181,2015-05-26
+373,Beware the Kitten Holy,Noelle Stevenson,3.91,128,BOOM! Box,1608866874,Sequential,1,3082,2015-04-07
+374,"Sunstone, Vol. 1",Stjepan Šejić,4.36,128,Image Comics(first published November 2011),1632152126,Sequential,0,620,2015-01-06
+375,"Step Aside, Pops",Kate Beaton,4.09,168,Drawn and Quarterly(first published September 3rd 2015),1770462082,Sequential,0,932,2015-09-15
+376,The Thrilling Adventures of Lovelace and Babbage,Sydney Padua,4.04,317,Pantheon,English,Sequential,0,148,2015-04-21
+377,"Hawkeye, Volume 4: Rio Bravo",Matt Fraction,4.32,160,Marvel(first published August 11th 2015),0785185313,Sequential,1,1477,2015-08-18
+378,The Far Reaching Tentacles of N'rygoth,Kurtis J. Wiebe,4.14,128,Image Comics,English,Sequential,0,746,2015-05-06
+379,Sex Criminals: Volume Two: Two Worlds One Cop,Matt Fraction,4.03,128,Image Comics,1632151936,Sequential,0,1477,2015-02-25
+380,The Sandman: Overture,Neil Gaiman,3.98,224,DC Vertigo,1401248969,Sequential,1,196564,2015-11-10
+381,Username: Evie,Joe Sugg,3.78,182,Running Press Adult(first published September 1st 2015),0762460105,Sequential,1,602,2015-09-22
+382,Fandemonium,Kieron Gillen,4.14,200,Image Comics,1632153270,Sequential,1,1264,2015-07-01
+383,Soppy,Philippa Rice,4.27,108,Andrews McMeel Publishing,1449461069,Sequential,0,239,2014-12-02
+384,"The Unbeatable Squirrel Girl, Vol. 1: Squirrel Power",Ryan North,4.07,128,Marvel,English,Sequential,0,891,2015-09-01
+385,Roller Girl,Victoria Jamieson,4.31,240,Dial Books,0803740166,Sequential,0,350,2015-03-10
+386,March: Book Two,John             Lewis,4.5,192,Top Shelf Productions(first published January 13th 2015),1603094008,comment,1,514,2015-01-20
+387,The Sculptor,Scott McCloud,4.01,488,First Second,1596435739,Sequential,0,1145,2015-02-03
+388,The Dogs I Have Kissed,Trista Mateer,3.62,90,CreateSpace(first published May 25th 2015),1514287315,Poetry,0,575,2015-06-24
+389,The Dogs I Have Kissed,Trista Mateer,3.62,90,CreateSpace(first published May 25th 2015),1514287315,Poetry,0,575,2015-06-24
+390,The Dogs I Have Kissed,Trista Mateer,3.62,90,CreateSpace(first published May 25th 2015),1514287315,Poetry,0,575,2015-06-24
+391,Memories,Lang Leav,4.11,256,Andrews McMeel Publishing,1449472397,Poetry,0,8978,2015-10-06
+392,Pop Sonnets: Shakespearean Spins on Your Favorite Songs,Erik Didriksen,4.16,128,Quirk Books,1594748284,Poetry,0,25,2015-10-06
+393,Black Butterfly,Robert M. Drake,4.14,272,Vintage Wild,0986262749,Poetry,0,1560,2015-04-02
+394,I Wrote This for You and Only You,pleasefindthis,4.18,214,Central Avenue Publishing,1771680423,Poetry,1,1521,2015-03-01
+395,Dirty Pretty Things,Michael Faudet,3.81,274,Michael Faudet,047329950X,Poetry,0,1242,2014-11-18
+396,Catalog of Unabashed Gratitude,Ross Gay,4.25,102,University of Pittsburgh Press,0822963310,Poetry,0,171,2015-01-07
+397,Bipolar Cowboy,Noah Cicero,3.87,124,Lazy Fascist Press(first published February 1st 2015),B00TCG3V7C,Poetry,0,202,2015-02-07
+398,Mouthful of Forevers,Clementine von Radics,4.04,112,Andrews McMeel Publishing,1449470793,Poetry,0,1165,2015-04-07
+399,Dark Sparkler,Amber Tamblyn,3.9,128,Harper Perennial,0062348167,Poetry,0,431,2015-04-07
+400,War of the Foxes,Richard Siken,4.09,96,Copper Canyon Press,1556594771,Poetry,0,1200,2015-04-28
+401,Felicity,Mary Oliver,4.3,85,Penguin Press,1594206767,Poetry,0,3620,2015-10-13
+402,How to Be Drawn,Terrance Hayes,4.16,112,Penguin Books,0143126881,Poetry,0,213,2015-03-31
+403,Pansy,Andrea Gibson,4.57,120,Write Bloody Publishing,1938912985,Poetry,0,1413,2015-03-15
+404,All the Words Are Yours: Haiku on Love,Tyler Knott Gregson,4.18,144,TarcherPerigee,0399176004,Poetry,0,1501,2015-10-20
+405,Psychaotic: See The World In Red And Black,Irum Zahra,4.15,124,Beyond Sanity Publishing,150326601X,Add,0,161,2014-11-18
+406,Naked Human,Christopher Poindexter,4.25,180,Underwater Mountains,0692405658,Poetry,0,551,2015-03-03
+407,What About This: Collected Poems of Frank Stanford,Frank Stanford,4.5,764,Copper Canyon Press(first published April 7th 2015),1556594682,Poetry,0,65,2015-04-14
+408,The Robot Scientist's Daughter,Jeannine Hall Gailey,4.17,82,Mayapple Press,1936419424,Poetry,0,122,
+409,Dark Desires: Beginning,Delicious David,4.51,91,Amazon Digital Services,B00THEV77A,Poetry,0,317,2015-02-14
+410,Red Queen,Victoria Aveyard,4.06,383,HarperTeen,0062310631,Fantasy,1,42123,2015-02-10
+411,Red Queen,Victoria Aveyard,4.06,383,HarperTeen,0062310631,Fantasy,1,42123,2015-02-10
+412,Red Queen,Victoria Aveyard,4.06,383,HarperTeen,0062310631,Fantasy,1,42123,2015-02-10
+413,An Ember in the Ashes,Sabaa Tahir,4.3,446,Razorbill,1595148035,Fantasy,0,20639,2015-04-28
+414,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,4.32,303,Balzer + Bray,0062348671,Young,1,13571,2015-04-07
+415,"Everything, Everything",Nicola Yoon,4.08,306,Delacorte Books for Young Readers,0553496646,comments,0,11540,2015-09-01
+416,Serafina and the Black Cloak,Robert  Beatty,3.93,293,Disney•Hyperion,1484709012,comments,1,1399,2015-07-14
+417,Luckiest Girl Alive,Jessica Knoll,3.49,352,Simon  Schuster,1476789630,comments,0,2297,2015-05-12
+418,Girl at War,Sara Nović,4.0,320,Random House,0812996348,Historical,0,556,2015-05-12
+419,The Hurricane,R.J. Prescott,4.08,308,,B00TGNQEA2,Romance,1,1440,2015-02-10
+420,My Heart and Other Black Holes,Jasmine Warga,4.0,320,Balzer + Bray,0062324675,Young,0,1344,2015-02-10
+421,The Strongest Steel,Scarlett Cole,4.08,482,St. Martin's Paperbacks,B00WE0OS4S,Romance,1,1586,2015-07-07
+422,The Mason List,S.D. Hendrickson,4.2,478,Createspace Independent Publishing Platform,1505641799,Romance,0,856,2015-01-10
+423,The Secret Wisdom of the Earth,Christopher Scotton,4.09,466,Grand Central Publishing,1455551929,Fiction,0,350,2015-01-06
+424,The Fishermen,Chigozie Obioma,3.84,304,"Little, Brown and Company",0316338370,Fiction,0,885,2015-04-14
+425,In the Middle of Somewhere,Roan Parrish,4.19,350,Dreamspinner Press,1634762126,Romance,1,1341,2015-07-10
+426,Orhan's Inheritance,Aline Ohanesian,3.93,352,Algonquin Books,1616203749,Historical,0,174,2015-04-07
+427,Circus Mirandus,Cassie Beasley,4.09,292,Dial Books(first published June 1st 2015),0525428437,Fantasy,1,410,2015-06-02
+428,The Library at Mount Char,Scott  Hawkins,4.09,390,Crown(first published June 2015),0553418602,Fantasy,0,1831,2015-06-16
+429,Made You Up,Francesca Zappia,4.06,428,Greenwillow Books,006229010X,Young,0,3034,2015-05-19
+430,Three Simple Rules,Nikki Sloane,4.08,288,CreateSpace Independent Publishing Platform,English,Romance,0,2150,2015-01-26
+431,Dietland,Sarai Walker,3.55,320,Houghton Mifflin Harcourt,054437343X,Fiction,0,516,2015-05-26
+432,All the Bright Places,Jennifer Niven,4.17,378,Knopf,0385755880,Young,0,9399,2015-01-06
+433,All the Bright Places,Jennifer Niven,4.17,378,Knopf,0385755880,Young,0,9399,2015-01-06
+434,All the Bright Places,Jennifer Niven,4.17,378,Knopf,0385755880,Young,0,9399,2015-01-06
+435,P.S. I Still Love You,Jenny Han,4.13,337,Simon & Schuster Books for Young Readers,144242673X,Young,1,32342,2015-05-26
+436,Saint Anything,Sarah Dessen,4.05,417,Viking,0451474708,Young,0,41341,2015-05-05
+437,I Was Here,Gayle Forman,3.77,270,Viking Juvenile,0451471474,Young,0,23295,2015-01-27
+438,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,4.32,303,Balzer + Bray,0062348671,Young,1,13571,2015-04-07
+439,"Everything, Everything",Nicola Yoon,4.08,306,Delacorte Books for Young Readers,0553496646,comments,0,11540,2015-09-01
+440,Finding Audrey,Sophie Kinsella,3.79,286,Delacorte Books for Young Readers,0553536516,Young,0,29127,2015-06-09
+441,Nowhere But Here,Katie McGarry,4.02,496,Harlequin Teen,0373211422,Young,1,12380,2015-05-26
+442,Wild Reckless,Ginger Scott,4.06,338,Ginger Scott,0692392920,Romance,1,2635,2015-02-24
+443,Mosquitoland,David  Arnold,3.9,352,Viking Books for Young Readers,045147077X,Young,0,1265,2015-03-03
+444,My Heart and Other Black Holes,Jasmine Warga,4.0,320,Balzer + Bray,0062324675,Young,0,1344,2015-02-10
+445,Made You Up,Francesca Zappia,4.06,428,Greenwillow Books,006229010X,Young,0,3034,2015-05-19
+446,Until Friday Night,Abbi Glines,3.99,336,Simon Pulse,1481438859,Romance,1,82723,2015-08-25
+447,I'll Meet You There,Heather Demetrios,4.06,388,Henry Holt and Co. (BYR),0805097953,Young,0,1323,2015-02-03
+448,Every Last Word,Tamara Ireland Stone,4.24,358,Disney-Hyperion,1484705270,comments,0,2487,2015-06-16
+449,The Last Time We Say Goodbye,Cynthia Hand,4.11,386,Harper Teen,0062318470,Young,0,8766,2015-02-10
+450,More Happy Than Not,Adam Silvera,4.05,293,Soho Teen,1616955600,Young,0,16071,2015-06-02
+451,Dumplin',Julie   Murphy,3.91,371,Balzer + Bray,0062327186,Young,1,3234,2015-09-15
+452,The Fill-In Boyfriend,Kasie West,3.92,343,HarperTeen,006233638X,Young,0,13090,2015-05-05
+453,All the Rage,Courtney Summers,3.83,321,St. Martin's Griffin,125002191X,Young,0,5037,2015-04-14
+454,Queen of Shadows,Sarah J. Maas,4.57,648,Bloomsbury USA Childrens,1619636042,Fantasy,1,117630,2015-09-01
+455,Queen of Shadows,Sarah J. Maas,4.57,648,Bloomsbury USA Childrens,1619636042,Fantasy,1,117630,2015-09-01
+456,Queen of Shadows,Sarah J. Maas,4.57,648,Bloomsbury USA Childrens,1619636042,Fantasy,1,117630,2015-09-01
+457,Carry On,Rainbow Rowell,4.24,522,St. Martin's Griffin,1250049555,Fantasy,1,126821,2015-10-06
+458,Winter,Marissa Meyer,4.47,827,Feiwel & Friends,0312642989,Fantasy,0,82696,2015-11-10
+459,Red Queen,Victoria Aveyard,4.06,383,HarperTeen,0062310631,Fantasy,1,42123,2015-02-10
+460,The Heir,Kiera Cass,3.81,342,HarperTeen,0062349856,Young,1,42560,2015-05-05
+461,A Court of Thorns and Roses,Sarah J. Maas,4.25,419,Bloomsbury USA Childrens,1619634449,Fantasy,1,117630,2015-05-05
+462,Uprooted,Naomi Novik,4.09,435,Del Rey,0804179034,Fantasy,0,14713,2015-05-19
+463,Firefight,Brandon Sanderson,4.28,416,Delacorte Press,0385743580,Fantasy,1,119647,2015-01-06
+464,Six of Crows,Leigh Bardugo,4.46,465,Henry Holt and Company,1627792120,Fantasy,1,54184,2015-09-29
+465,An Ember in the Ashes,Sabaa Tahir,4.3,446,Razorbill,1595148035,Fantasy,0,20639,2015-04-28
+466,The Wrath and the Dawn,Renée Ahdieh,4.14,404,G.P. Putnam's Sons Books for Young Readers,0399171614,Fantasy,1,12814,2015-05-12
+467,Library of Souls,Ransom Riggs,4.14,464,Quirk Books,159474758X,Fantasy,1,18806,2015-09-22
+468,Dead of Winter,Kresley Cole,4.34,303,Simon & Schuster Books for Young Readers,1481423452,Young,1,21375,2015-01-06
+469,The Ruby Circle,Richelle Mead,4.23,348,Razorbill,159514322X,Young,1,62356,2015-02-10
+470,The Winner's Crime,Marie Rutkoski,4.14,402,"Farrar, Straus and Giroux (Byr)",0374384703,Fantasy,1,6940,2015-03-03
+471,The Heart of Betrayal,Mary E. Pearson,4.28,473,Henry Holt and Co. (BYR),0805099247,Fantasy,1,6890,2015-07-07
+472,End of Days,Susan Ee,4.1,331,Skyscape,1477829709,Fantasy,1,11701,2015-05-12
+473,The Darkest Part of the Forest,Holly Black,3.9,336,"Little, Brown Books for Young Readers",0316213071,comments,0,31582,2015-01-13
+474,Gathering Darkness,Morgan Rhodes,4.27,407,Razorbill,1595147055,Fantasy,1,6072,2014-12-09
+475,Illuminae,Amie Kaufman,4.3,602,Knopf Books for Young Readers,0553499114,Science,1,8808,2015-10-20
+476,The Sword of Summer,Rick Riordan,4.25,499,Disney-Hyperion Books,1423160916,comments,0,279371,2015-10-06
+477,The Sword of Summer,Rick Riordan,4.25,499,Disney-Hyperion Books,1423160916,comments,0,279371,2015-10-06
+478,The Sword of Summer,Rick Riordan,4.25,499,Disney-Hyperion Books,1423160916,comments,0,279371,2015-10-06
+479,The Last Ever After,Soman Chainani,4.3,655,HarperCollins,0062104950,Fantasy,1,3636,2015-07-21
+480,Beyond the Kingdoms,Chris Colfer,4.51,422,"Little, Brown Books for Young Readers",0316406899,Fantasy,0,7040,2015-07-07
+481,Serafina and the Black Cloak,Robert  Beatty,3.93,293,Disney•Hyperion,1484709012,comments,1,1399,2015-07-14
+482,George,Alex Gino,4.05,208,Scholastic Press,0545812542,Childrens,0,332,2015-08-25
+483,The Isle of the Lost,Melissa de la Cruz,3.85,311,Disney-Hyperion,1484720970,Fantasy,1,12486,2015-05-05
+484,A Handful of Stars,Cynthia Lord,4.16,192,Scholastic Press,0545700272,Childrens,0,376,2015-05-26
+485,The Thing About Jellyfish,Ali Benjamin,4.08,352,"Little, Brown Books for Young Readers(first published August 18th 2015)",0316380865,Childrens,0,312,2015-09-22
+486,The War That Saved My Life,Kimberly Brubaker Bradley,4.5,316,Dial Books,0803740816,Historical,1,1229,2015-01-08
+487,Fish in a Tree,Lynda Mullaly Hunt,4.28,288,Nancy Paulsen Books,0399162593,Realistic,0,866,2015-02-05
+488,The Penderwicks in Spring,Jeanne Birdsall,4.41,339,Alfred A. Knopf Books for Young Readers,0375870776,Childrens,1,896,2015-03-24
+489,Goodbye Stranger,Rebecca Stead,3.93,289,Wendy Lamb Books,0385743173,Childrens,0,1502,2015-08-04
+490,Echo,Pam Muñoz Ryan,4.37,587,Scholastic Press,0439874025,Historical,0,966,2015-02-24
+491,Rogue Knight,Brandon Mull,4.39,470,Aladdin,1442497033,Fantasy,1,7336,2014-11-18
+492,The Marvels,Brian Selznick,3.97,665,Scholastic Press,English,Childrens,0,2912,2015-09-15
+493,The Honest Truth,Dan Gemeinhart,4.26,240,Scholastic Press,0545665736,Childrens,0,740,2015-01-27
+494,The Copper Gauntlet,Holly Black,4.14,264,Scholastic Press,0545522285,Fantasy,1,31582,2015-09-01
+495,The Evertree,Marie Lu,4.34,188,Scholastic Inc.,0545535212,Fantasy,1,104082,2015-03-31
+496,Crenshaw,Katherine Applegate,3.98,256,Feiwel & Friends,1250043239,Childrens,0,3588,2015-09-22
+497,The Hollow Boy,Jonathan Stroud,4.37,385,Disney-Hyperion,1484709683,Fantasy,1,7285,2015-09-15
+498,The Day the Crayons Came Home,Drew Daywalt,4.44,48,Philomel Books,0399172750,Childrens,1,322,2015-08-18
+499,The Day the Crayons Came Home,Drew Daywalt,4.44,48,Philomel Books,0399172750,Childrens,1,322,2015-08-18
+500,The Day the Crayons Came Home,Drew Daywalt,4.44,48,Philomel Books,0399172750,Childrens,1,322,2015-08-18
+501,Winnie: The True Story of the Bear Who Inspired Winnie-the-Pooh,Sally M. Walker,4.31,40,Henry Holt and Co. (BYR),0805097155,Childrens,0,60,2015-01-20
+502,I Will Take a Nap!,Mo Willems,4.34,64,Hyperion Books for Children,1484716302,Childrens,1,3140,2015-06-02
+503,What Pet Should I Get?,Dr. Seuss,3.79,48,Random House Children's Books,0553524267,Childrens,0,16093,2015-07-28
+504,The Princess and the Pony,Kate Beaton,4.25,40,Arthur A. Levine Books(first published May 6th 2015),0545637082,Childrens,0,932,2015-06-30
+505,Goodnight Already!,Jory John,4.07,32,HarperCollins,006228620X,Add,1,167,2014-12-02
+506,If You Plant a Seed,Kadir Nelson,4.24,32,Balzer + Bray,0062298895,Childrens,0,218,2015-03-03
+507,Red: A Crayon's Story,Michael  Hall,4.38,40,Greenwillow Books,0062252097,Childrens,0,53,2015-02-03
+508,I Wish You More,Amy Krouse Rosenthal,4.37,34,Chronicle Books,1452126992,Childrens,0,804,2015-03-31
+509,Sidewalk Flowers,JonArno Lawson,4.27,32,Groundwood Books,1554984319,Childrens,0,31,2015-03-01
+510,Wolfie the Bunny,Ame Dyckman,4.16,40,"Little, Brown Books for Young Readers",0316226149,Childrens,0,187,2015-02-17
+511,Mesmerized: How Ben Franklin Solved a Mystery that Baffled All of France,Mara Rockliff,4.22,48,Candlewick Press(first published September 23rd 2014),0763663514,Childrens,0,26,2015-03-10
+512,This Is Sadie,Sara O'Leary,4.17,32,Tundra Books,1770495320,Add,0,94,2015-05-12
+513,Last Stop on Market Street,Matt de la Pena,4.3,32,G.P. Putnam's Sons Books for Young Readers,0399257748,Childrens,0,1145,2015-01-08
+514,Your Baby's First Word Will Be DADA,Jimmy Fallon,3.49,34,Feiwel & Friends,125007181X,Childrens,0,179,2015-06-09
+515,Interstellar Cinderella,Deborah Underwood,4.2,36,Chronicle Books,1452125325,Childrens,0,108,2015-05-05
+516,"A Fine Dessert: Four Centuries, Four Families, One Delicious Treat",Emily Jenkins,3.99,44,Schwartz & Wade,0375968326,Childrens,0,110,2015-01-27
+517,Otter in Space,Sam Garton,4.1,32,Balzer + Bray,006224776X,Childrens,1,143,2015-05-05
+518,Float,Daniel Miyares,4.19,48,Simon  Schuster Books for Young Readers,1481415247,Childrens,0,27,2015-06-09
+519,Waiting,Kevin Henkes,4.03,32,Greenwillow Books,0062368435,Childrens,0,836,2015-09-01
+520,Truly Madly Guilty,Liane Moriarty,3.57,415,Flatiron Books,1250069793,Fiction,0,40245,2016-07-26
+521,Truly Madly Guilty,Liane Moriarty,3.57,415,Flatiron Books,1250069793,Fiction,0,40245,2016-07-26
+522,Truly Madly Guilty,Liane Moriarty,3.57,415,Flatiron Books,1250069793,Fiction,0,40245,2016-07-26
+523,All the Ugly and Wonderful Things,Bryn Greenwood,4.07,346,Thomas Dunne Books,1250074134,Fiction,0,2627,2016-08-09
+524,The Girls,Emma Cline,3.47,355,Random House,081299860X,Fiction,0,1725,2016-06-14
+525,The Nest,Cynthia D'Aprix Sweeney,3.42,368,Ecco,0062414216,comments,0,1203,2016-03-22
+526,Small Great Things,Jodi Picoult,4.34,480,Ballantine Books,0345544951,Fiction,0,51057,2016-10-11
+527,Eligible,Curtis Sittenfeld,3.61,492,Random House,1400068320,Fiction,1,3808,2016-04-19
+528,Commonwealth,Ann Patchett,3.81,322,Harper,0062491792,Fiction,0,8307,2016-09-13
+529,Lily and the Octopus,Steven  Rowley,3.71,307,Simon  Schuster,1501126229,Fiction,0,932,2016-06-07
+530,My Name Is Lucy Barton,Elizabeth Strout,3.51,193,Random House(first published January 6th 2016),1400067693,Fiction,1,4789,2016-01-12
+531,What is Not Yours is Not Yours,Helen Oyeyemi,3.64,325,Riverhead Books,1594634637,Short,0,3219,2016-03-08
+532,Another Brooklyn,Jacqueline Woodson,3.86,177,Amistad,0062359983,Fiction,0,4870,2016-08-09
+533,Here I Am,Jonathan Safran Foer,3.64,592,"Farrar, Straus and Giroux",0374280029,Fiction,0,11547,2016-09-06
+534,Everybody's Fool,Richard Russo,4.08,477,Knopf,0307270645,comments,0,3061,2016-05-03
+535,The Nix,Nathan  Hill,4.09,640,Knopf,110194661X,Fiction,0,1453,2016-08-30
+536,Shelter,Jung Yun,3.73,326,Picador(first published March 1st 2016),1250075610,Fiction,0,227,2016-03-15
+537,The Association of Small Bombs,Karan Mahajan,3.57,288,Viking,0525429638,Fiction,0,275,2016-03-22
+538,Nutshell,Ian McEwan,3.67,208,Nan A. Talese(first published September 2016),English,Fiction,0,10875,2016-09-13
+539,Silver Threads,Bette Lee Crosby,4.31,248,Bent Pine Publishing,B01IC9BQT4,Fiction,1,1838,2016-09-14
+540,The Summer that Melted Everything,Tiffany McDaniel,3.93,310,St. Martin's Press,1250078067,Add,0,283,2016-07-26
+541,An Ishmael of Syria,Asaad Almohammad,3.82,370,,0997481501,Fiction,0,241,2016-04-05
+542,End of Watch,Stephen King,4.08,432,Scribner,1501129740,Horror,1,673359,2016-06-07
+543,End of Watch,Stephen King,4.08,432,Scribner,1501129740,Horror,1,673359,2016-06-07
+544,End of Watch,Stephen King,4.08,432,Scribner,1501129740,Horror,1,673359,2016-06-07
+545,A Great Reckoning,Louise Penny,4.42,389,Minotaur Books,1250022134,Mystery,1,10887,2016-08-30
+546,The Woman in Cabin 10,Ruth Ware,3.69,341,Scout Press(first published June 30th 2016),1501132938,Mystery,0,13523,2016-07-19
+547,Brotherhood in Death,J.D. Robb,4.37,388,Berkley,0399170898,Mystery,1,16320,2016-02-02
+548,Behind Closed Doors,B.A. Paris,3.95,293,St. Martin's Press,1250121000,Thriller,0,8241,2016-08-09
+549,Before the Fall,Noah Hawley,3.73,391,Grand Central Publishing,1455561789,Fiction,0,2078,2016-05-31
+550,The Trespasser,Tana French,3.96,449,Viking,0670026336,Mystery,1,15926,2016-10-04
+551,All the Missing Girls,Megan Miranda,3.78,371,Simon  Schuster,1501107968,Mystery,0,4587,2016-06-28
+552,Fool Me Once,Harlan Coben,3.93,387,Dutton,0525955097,comments,0,17542,2016-03-22
+553,The Couple Next Door,Shari Lapena,3.77,308,Pamela Dorman Books(first published July 14th 2016),0735221081,Mystery,0,6097,2016-08-23
+554,The Last Mile,David Baldacci,4.21,644,Grand Central Publishing(first published April 19th 2016),1455566020,Mystery,1,108253,2016-04-26
+555,The Black Widow,Daniel Silva,4.32,528,Harper,006232022X,Fiction,1,5504,2016-07-12
+556,The Widow,Fiona Barton,3.49,324,NAL,1101990260,Mystery,1,2622,2016-02-16
+557,The Vanishing Year,Kate Moretti,3.64,296,Atria Books,1501118439,Mystery,0,1209,2016-09-27
+558,The Girl In The Ice,Robert Bryndza,3.94,394,Bookouture,1910751774,Mystery,1,3776,2016-02-12
+559,The Kept Woman,Karin Slaughter,4.09,461,William Morrow(first published June 14th 2016),0062430211,Mystery,1,24619,2016-09-20
+560,Into the Light,Aleatha Romig,4.15,352,Thomas & Mercer,1503935159,Mystery,1,10664,2016-06-14
+561,Play Dead,Angela Marsons,4.39,392,Bookouture,1786810085,Mystery,1,2674,2016-05-20
+562,The Queen's Accomplice,Susan Elia MacNeal,3.94,368,Bantam,0804178720,Mystery,1,1974,2016-10-04
+563,Redemption Road,John Hart,4.08,417,Thomas Dunne Books,0312380364,Mystery,0,2408,2016-05-03
+564,The Underground Railroad,Colson Whitehead,4.02,306,Doubleday Books,0385542364,comments,0,6251,2016-08-02
+565,The Underground Railroad,Colson Whitehead,4.02,306,Doubleday Books,0385542364,comments,0,6251,2016-08-02
+566,The Underground Railroad,Colson Whitehead,4.02,306,Doubleday Books,0385542364,comments,0,6251,2016-08-02
+567,Lilac Girls,Martha Hall Kelly,4.29,487,Ballantine Books,1101883073,comment,1,3778,2016-04-05
+568,America's First Daughter,Stephanie Dray,4.22,606,William Morrow Paperbacks,English,Historical,0,2117,2016-03-01
+569,A Gentleman in Moscow,Amor Towles,4.36,462,Viking,0670026190,Historical,0,7186,2016-09-06
+570,The Wonder,Emma Donoghue,3.62,291,"Little, Brown and Company",0316393878,Historical,0,7962,2016-09-20
+571,Homegoing,Yaa Gyasi,4.42,320,Alfred A. Knopf,1101947136,Historical,0,3441,2016-06-07
+572,"Three Sisters, Three Queens",Philippa Gregory,3.77,556,Atria Books,1476758573,Add,1,25878,2016-08-09
+573,The Summer Before the War,Helen Simonson,3.78,481,Random House(first published March 1st 2016),0812993101,Historical,0,1931,2016-03-22
+574,The Swans of Fifth Avenue,Melanie Benjamin,3.6,368,Delacorte Press,0345528697,Historical,0,2207,2016-01-26
+575,The Queen of the Night,Alexander Chee,3.43,561,Houghton Mifflin Harcourt,0618663029,Fiction,0,982,2016-02-02
+576,The Last Days of Night,Graham Moore,4.15,371,Random House,0812988906,Historical,0,649,2016-08-16
+577,The Moon in the Palace,Weina Dai Randel,3.85,395,Sourcebooks Landmark,1492613568,Historical,1,333,2016-03-01
+578,To The Bright Edge of the World,Eowyn Ivey,4.14,417,"Little, Brown and Company(first published August 1st 2016)",0316242853,Historical,0,2444,2016-08-02
+579,Glory Over Everything: Beyond The Kitchen House,Kathleen Grissom,4.25,365,Simon  Schuster,1476748446,Historical,0,2441,2016-04-05
+580,The North Water,Ian McGuire,4.0,272,Henry Holt and Co.(first published February 11th 2016),1627795944,Historical,0,487,2016-03-15
+581,News of the World,Paulette Jiles,4.07,209,William Morrow(first published March 29th 2016),0062409204,Historical,0,859,2016-10-04
+582,Do Not Say We Have Nothing,Madeleine Thien,3.9,473,Knopf Canada,0345810422,Fiction,0,464,2016-05-31
+583,Modern Girls,Jennifer S. Brown,3.89,384,Berkley Books(first published April 5th 2016),045147712X,Historical,0,333,2016-05-01
+584,Green Island,Shawna Yang Ryan,3.99,400,Knopf,1101874252,Historical,0,112,2016-02-23
+585,The Two-Family House,Lynda Cohen Loigman,3.93,290,St. Martin's Press,1250076927,Historical,0,841,2016-03-08
+586,Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,3.66,330,"Little, Brown",0751565350,Fantasy,1,247,2016-07-31
+587,Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,3.66,330,"Little, Brown",0751565350,Fantasy,1,247,2016-07-31
+588,Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,3.66,330,"Little, Brown",0751565350,Fantasy,1,247,2016-07-31
+589,A Gathering of Shadows,V.E. Schwab,4.29,512,Tor Books,0765376474,Fantasy,1,22622,2016-02-23
+590,The Bands of Mourning,Brandon Sanderson,4.44,447,Tor Books,English,Fantasy,0,119648,2016-01-26
+591,Feverborn,Karen Marie Moning,4.21,436,Delacorte Press,0385344422,Fantasy,1,25436,2016-01-19
+592,Fire Touched,Patricia Briggs,4.38,342,Ace,0425256766,Fantasy,0,23134,2016-03-08
+593,All the Birds in the Sky,Charlie Jane Anders,3.58,313,Tor Books,0765379945,Fantasy,1,2169,2016-01-26
+594,Magic Binds,Ilona Andrews,4.56,328,Ace,0425270696,Fantasy,1,22830,2016-09-20
+595,The Bird and the Sword,Amy Harmon,4.25,328,CreateSpace,1533134138,Fantasy,1,11788,2016-05-06
+596,Marked in Flesh,Anne Bishop,4.3,399,Roc,0451474473,Fantasy,1,8194,2016-03-08
+597,The Curse of Tenth Grave,Darynda Jones,4.39,342,St. Martin's Press,English,Fantasy,0,12001,2016-06-28
+598,The Obelisk Gate,N.K. Jemisin,4.32,410,Orbit(first published August 16th 2016),0356508366,Fantasy,1,20675,2016-08-18
+599,The Paper Menagerie and Other Stories,Ken Liu,4.39,450,Gallery / Saga Press,1481442546,Short,0,6079,2016-03-08
+600,Age of Myth,Michael J. Sullivan,4.24,432,Del Rey,1101965339,Fantasy,1,68523,2016-06-28
+601,Staked,Kevin Hearne,4.24,310,Del Rey,0345548515,Fantasy,1,10401,2016-01-26
+602,Stiletto,Daniel O'Malley,4.15,583,"Little, Brown, and Company",0316228044,Fantasy,1,2474,2016-06-14
+603,Every Heart a Doorway,Seanan McGuire,3.83,173,Tor.com,0765385503,Fantasy,1,10011,2016-04-05
+604,The Wheel of Osheim,Mark  Lawrence,4.34,656,Harper Voyager(first published May 5th 2016),0007531613,Fantasy,1,44517,2016-06-02
+605,Vampire Girl,Karpov Kinrade,4.06,270,Daring Books,1939559421,Fantasy,1,2396,2016-04-05
+606,The Blood Mirror,Brent Weeks,4.35,704,Orbit,031625133X,Fantasy,1,17616,2016-10-25
+607,City of Blades,Robert Jackson Bennett,4.21,484,Broadway Books(first published January 7th 2016),0553419714,Add,0,15823,2016-01-26
+608,It Ends with Us,Colleen Hoover,4.4,376,Atria Books,1501110365,Romance,0,327199,2016-08-02
+609,It Ends with Us,Colleen Hoover,4.4,376,Atria Books,1501110365,Romance,0,327199,2016-08-02
+610,It Ends with Us,Colleen Hoover,4.4,376,Atria Books,1501110365,Romance,0,327199,2016-08-02
+611,Storm and Silence,Robert Thier,4.5,765,Robert Thier,3000513515,Romance,1,3544,2016-03-19
+612,The Obsession,Nora Roberts,4.2,453,Berkley,0399175164,Romance,0,36131,2016-04-12
+613,The Beast,J.R. Ward,4.46,508,NAL,045147516X,Fantasy,1,41170,2016-04-05
+614,One with You,Sylvia Day,4.09,464,St. Martin's Griffin,1250109302,Add,1,115036,2016-04-05
+615,Because of Miss Bridgerton,Julia Quinn,3.88,375,Avon,0062388142,Romance,1,14333,2016-03-29
+616,Kings Rising,C.S. Pacat,4.47,352,Berkley,0425273997,Fantasy,1,7282,2016-02-02
+617,Paper Princess,Erin Watt,4.03,364,Everafter Romance,1682304566,Romance,1,8622,2016-04-04
+618,The Hating Game,Sally  Thorne,4.18,365,William Morrow Paperbacks,English,comments,0,7233,2016-08-09
+619,Beard Science,Penny Reid,4.47,386,Cipher-Naught,B01LOX4U9I,Romance,1,14783,2016-10-11
+620,The Score,Elle Kennedy,4.26,360,Createspace Independent Publishing Platform,1522783075,Romance,1,18455,2016-01-11
+621,The Wall of Winnipeg and Me,Mariana Zapata,4.33,672,Mariana Zapata(first published February 29th 2016),0990429245,Romance,0,14718,2016-03-01
+622,Born of Legend,Sherrilyn Kenyon,4.54,726,St. Martin's Press,1250082749,Romance,1,25055,2016-06-21
+623,Beautiful Burn,Jamie McGuire,4.1,304,Createspace Independent Publishing Platform,1512284130,Romance,1,38116,2016-01-25
+624,Stuck-Up Suit,Vi Keeland,4.13,328,Everafter Romance,1682304124,Romance,0,19545,2016-04-11
+625,Big Rock,Lauren Blakely,3.95,235,EverAfter Platinum,0692572031,Romance,0,15571,2016-01-06
+626,RoomHate,Penelope Ward,4.04,280,Createspace Independent Publishing Platform,1523662441,Romance,0,15893,2016-02-03
+627,Punk 57,Penelope Douglas,4.2,342,CreateSpace,1539427765,Romance,0,17496,2016-10-18
+628,Blackwing Dragon,T.S. Joyce,4.55,214,Wicked Willow Press,B01JN8X0QA,Fantasy,1,2483,2016-08-02
+629,"Preppy: The Life and Death of Samuel Clearwater, Part One",T.M. Frazier,4.6,300,Everafter Romance,1682307913,Dark,1,10584,2016-10-25
+630,Morning Star,Pierce Brown,4.49,524,Del Rey,0345539842,comments,1,24063,2016-02-09
+631,Morning Star,Pierce Brown,4.49,524,Del Rey,0345539842,comments,1,24063,2016-02-09
+632,Morning Star,Pierce Brown,4.49,524,Del Rey,0345539842,comments,1,24063,2016-02-09
+633,Dark Matter,Blake Crouch,4.1,342,Crown,1101904224,Science,0,14288,2016-07-26
+634,Bloodline,Claudia Gray,4.06,332,LucasBooks,0345511360,Media,1,10727,2016-05-03
+635,The Long Cosmos,Terry Pratchett,3.87,377,Harper,0062297376,Science,1,32944,2016-06-30
+636,A Murder in Time,Julie McElwain,3.75,498,Pegasus Books,1605989746,Mystery,1,826,2016-04-11
+637,Sleeping Giants,Sylvain Neuvel,3.84,320,Del Rey,1101886692,Science,1,3969,2016-04-26
+638,The Last One,Alexandra Oliva,3.62,304,Ballantine Books,1101965088,Fiction,0,285,2016-07-12
+639,"Lies, Damned Lies, and History",Jodi Taylor,4.42,397,Accent Press,1910939005,Science,1,2761,2016-05-19
+640,Underground Airlines,Ben H. Winters,3.83,336,Mulholland Books,0316261246,Fiction,0,1509,2016-07-05
+641,Crosstalk,Connie Willis,3.51,498,Del Rey(first published September 20th 2016),0345540670,Science,0,3365,2016-10-04
+642,Gentleman Jole and the Red Queen,Lois McMaster Bujold,3.81,344,Baen(first published February 1st 2016),1476781222,Science,1,35439,2016-02-02
+643,Death's End,Liu Cixin,4.44,604,TOR(first published 2010),0765377101,Science,1,5608,2016-09-20
+644,Star Nomad,Lindsay Buroker,3.99,228,Createspace Independent Publishing Platform(first published May 26th 2016),153463455X,Science,1,3134,2016-06-10
+645,Too Like the Lightning,Ada Palmer,3.82,432,Tor Books,0765378000,Science,1,892,2016-05-10
+646,A Closed and Common Orbit,Becky Chambers,4.33,365,Hodder & Stoughton,1473621445,Science,1,5667,2016-10-20
+647,Written in Fire,Marcus Sakey,4.18,337,Thomas & Mercer,1477827641,Science,1,1232,2016-01-12
+648,A Night Without Stars,Peter F. Hamilton,4.42,704,Del Rey,0345547225,Science,1,6617,2016-09-27
+649,Remanence,Jennifer Foehner Wells,4.07,490,Blue Bedlam Science Fiction,0692669612,Science,1,1272,2016-03-11
+650,Ninefox Gambit,Yoon Ha Lee,3.83,319,Solaris,1781084491,Science,1,1137,2016-06-14
+651,Kill Process,William Hertling,4.1,306,Liquididea Press,1942097034,Science,1,549,2016-06-23
+652,The Fireman,Joe Hill,3.89,752,William Morrow,0062200631,comments,0,18178,2016-05-17
+653,The Fireman,Joe Hill,3.89,752,William Morrow,0062200631,comments,0,18178,2016-05-17
+654,The Fireman,Joe Hill,3.89,752,William Morrow,0062200631,comments,0,18178,2016-05-17
+655,The Butterfly Garden,Dot Hutchison,4.06,276,Thomas & Mercer(first published April 26th 2016),1503934713,Thriller,1,2283,2016-06-01
+656,The City of Mirrors,Justin Cronin,4.2,602,Ballantine Books(first published March 24th 2016),034550500X,Horror,1,7579,2016-05-24
+657,Ink and Bone,Lisa Unger,3.75,342,Gallery Books,1501101641,Add,1,3474,2016-06-07
+658,Over Your Dead Body,Dan Wells,4.08,303,Tor Books,0765380692,Horror,1,4831,2016-05-03
+659,My Best Friend's Exorcism,Grady Hendrix,3.94,336,Quirk Books,1594748624,Horror,0,3031,2016-05-17
+660,Fellside,M.R. Carey,3.56,486,Orbit(first published April 4th 2016),0316300284,comments,0,4180,2016-04-05
+661,Lovecraft Country,Matt Ruff,4.05,372,Harper,0062292064,Horror,0,1192,2016-02-16
+662,A Time of Torment,John Connolly,4.32,480,Hodder & Stoughton,1444751573,Thriller,1,5425,2016-04-07
+663,Wicked Little Words,Stevie J. Cole,4.19,171,,B01MAUYKFX,Add,0,1372,2016-10-31
+664,Mr. Splitfoot,Samantha Hunt,3.65,322,Houghton Mifflin Harcourt,0544526708,Fiction,0,475,2016-01-05
+665,The Visitor,Amanda Stevens,4.04,384,Mira,0778315177,Fantasy,1,1999,2016-03-29
+666,The Ballad of Black Tom,Victor LaValle,3.9,149,Tor.com,0765387867,Horror,0,1293,2016-02-16
+667,The Nightmare Stacks,Charles Stross,4.23,352,Orbit,0356505340,Fantasy,1,4655,2016-06-23
+668,Kill Switch,Jonathan Maberry,4.31,536,St. Martin's Griffin,1250065259,Horror,1,5655,2016-04-26
+669,Grunge,Larry Correia,4.14,307,Baen,1476781494,Fantasy,1,3278,2016-08-02
+670,Extinction End,Nicholas Sansbury Smith,4.33,450,CreateSpace Independent Publishing Platform,1523987111,Horror,1,1204,2016-02-24
+671,24690,A.A. Dark,4.0,306,CreateSpace Independent Publishing Platform,English,Dark,0,420,2016-07-15
+672,The Last Days of Jack Sparks,Jason Arnopp,3.9,336,Orbit,0356507181,Horror,0,355,2016-03-03
+673,Disappearance at Devil's Rock,Paul Tremblay,3.58,327,William Morrow,0062363263,Horror,0,3876,2016-06-21
+674,The Girl with the Lower Back Tattoo,Amy Schumer,3.73,323,Gallery Books,1501139886,Nonfiction,0,1233,2016-08-16
+675,The Girl with the Lower Back Tattoo,Amy Schumer,3.73,323,Gallery Books,1501139886,Nonfiction,0,1233,2016-08-16
+676,The Girl with the Lower Back Tattoo,Amy Schumer,3.73,323,Gallery Books,1501139886,Nonfiction,0,1233,2016-08-16
+677,Scrappy Little Nobody,Anna Kendrick,3.89,275,Gallery Books,1501117203,Add,0,1355,2016-11-15
+678,Where Am I Now?,Mara Wilson,3.86,259,Penguin Books,0143128221,Nonfiction,0,517,2016-09-13
+679,"Mother, Can You Not?",Kate Friedman-Siegel,3.77,255,Crown Archetype,1101907045,Nonfiction,0,134,2016-04-05
+680,You Can't Touch My Hair: And Other Things I Still Have to Explain,Phoebe Robinson,3.85,320,Plume Books,0143129201,Add,0,594,2016-10-04
+681,It Gets Worse: A Collection of Essays,Shane Dawson,4.28,256,Atria/Keywords Press,1501132849,Nonfiction,0,1325,2016-07-19
+682,I'm Judging You: The Do-Better Manual,Luvvie Ajayi,3.68,241,Holt Paperbacks,1627796061,Nonfiction,0,588,2016-09-13
+683,Dan and Phil Go Outside,Dan Howell,4.52,224,Random House Books for Young Readers,1524701459,Nonfiction,0,1696,2016-11-03
+684,Based on a True Story,Norm Macdonald,3.94,240,Spiegel & Grau,0812993624,Humor,0,161,2016-09-20
+685,I Want My Epidural Back: Adventures in Mediocre Parenting,Karen Alpert,3.71,309,William Morrow,0062427083,Nonfiction,0,131,2016-04-05
+686,I'm Just a Person,Tig Notaro,3.89,256,Ecco,0062266632,Autobiography,0,120,2016-06-14
+687,Seinfeldia: How a Show About Nothing Changed Everything,Jennifer Keishin Armstrong,3.66,307,Simon  Schuster,1476756104,Nonfiction,0,130,2016-07-05
+688,Housebroken: Admissions of an Untidy Life,Laurie Notaro,3.82,288,Ballantine Books,1101886080,Humor,0,1810,2016-07-12
+689,You'll Grow Out of It,Jessi Klein,3.81,291,Grand Central Publishing(first published June 7th 2016),1455531189,Autobiography,0,148,2016-07-12
+690,I Know What I'm Doing and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Jen Kirkman,3.62,240,Simon  Schuster,1476770271,Humor,0,154,2016-04-12
+691,If at Birth You Don't Succeed: My Adventures with Disaster and Destiny,Zach Anner,4.0,338,Henry Holt and Co.,162779364X,Nonfiction,0,98,2016-03-08
+692,Real Artists Have Day Jobs: (And Other Awesome Things They Don't Teach You in School),Sara Benincasa,3.77,272,William Morrow Paperbacks,0062369814,Nonfiction,0,399,2016-04-26
+693,"Navel Gazing: True Tales of Bodies, Mostly Mine (But Also My Mom's, Which I Know Sounds Weird)",Michael Ian Black,3.83,194,Gallery Books,1476748829,Humor,0,329,2016-01-05
+694,Best. State. Ever.: A Florida Man Defends His Homeland,Dave Barry,3.8,256,G.P. Putnam's Sons(first published September 2016),1101982608,Humor,0,1465,2016-09-06
+695,Alan Partridge: Nomad,Alan Partridge,4.12,320,Orion,1409156702,Fiction,0,134,2016-10-20
+696,Hamilton: The Revolution,Lin-Manuel Miranda,4.47,285,Grand Central Publishing(first published August 6th 2015),1455539740,Nonfiction,0,3059,2016-04-12
+697,Hamilton: The Revolution,Lin-Manuel Miranda,4.47,285,Grand Central Publishing(first published August 6th 2015),1455539740,Nonfiction,0,3059,2016-04-12
+698,Hamilton: The Revolution,Lin-Manuel Miranda,4.47,285,Grand Central Publishing(first published August 6th 2015),1455539740,Nonfiction,0,3059,2016-04-12
+699,The View from the Cheap Seats: Selected Nonfiction,Neil Gaiman,4.0,522,William Morrow,0062262262,Nonfiction,0,196572,2016-05-31
+700,Girls & Sex: Navigating the Complicated New Landscape,Peggy Orenstein,4.07,303,Harper(first published March 1st 2016),0062209728,Nonfiction,0,353,2016-03-29
+701,Adnan's Story: The Search for Truth and Justice After Serial,Rabia Chaudry,4.11,410,St. Martin's Press(first published June 7th 2016),1250087104,Nonfiction,0,141,2016-08-09
+702,Evicted: Poverty and Profit in the American City,Matthew Desmond,4.48,418,Crown,0553447432,Add,0,1018,2016-03-01
+703,The Lonely City: Adventures in the Art of Being Alone,Olivia Laing,3.91,336,Picador,1250039576,Nonfiction,0,827,2016-03-01
+704,But What If We're Wrong? Thinking About the Present As If It Were the Past,Chuck Klosterman,3.62,262,Blue Rider Press,0399184120,Nonfiction,0,3403,2016-06-07
+705,Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right,Jane Mayer,4.34,464,Doubleday,0385535597,Nonfiction,0,512,2016-01-19
+706,Originals: How Non-Conformists Move the World,Adam M. Grant,3.97,326,Viking,0525429565,Nonfiction,0,13664,2016-02-02
+707,The Geek Feminist Revolution,Kameron Hurley,3.9,272,Tor Books,0765386232,Nonfiction,0,1770,2016-05-31
+708,"Grit: Passion, Perseverance, and the Science of Success",Angela Duckworth,4.08,320,Scribner,1501111108,Nonfiction,0,1214,2016-05-03
+709,Tribe: On Homecoming and Belonging,Sebastian Junger,4.04,192,Twelve,1455566381,Nonfiction,0,1614,2016-05-24
+710,The Only Rule Is It Has to Work: Our Wild Experiment Building a New Kind of Baseball Team,Ben Lindbergh,4.22,368,Henry Holt and Co.,1627795642,Sports,0,54,2016-05-03
+711,And Then All Hell Broke Loose: Two Decades in the Middle East,Richard Engel,4.2,241,"Simon & Schuster, Inc.(first published February 2016)",1451635117,Nonfiction,0,113,2016-02-09
+712,Ego Is the Enemy,Ryan Holiday,4.15,226,Portfolio,1591847818,Nonfiction,0,5102,2016-06-14
+713,Smarter Faster Better: The Secrets of Being Productive in Life and Business,Charles Duhigg,3.93,400,Random House(first published March 2016),081299339X,Nonfiction,0,3226,2016-03-08
+714,Deep Work: Rules for Focused Success in a Distracted World,Cal Newport,4.2,296,Grand Central Publishing,1455586692,Add,0,3343,2016-01-05
+715,Another Day in the Death of America: A Chronicle of Ten Short Lives,Gary Younge,4.23,267,Bold Type Books,English,Nonfiction,0,103,2016-10-04
+716,The Fire This Time: A New Generation Speaks about Race,Jesmyn Ward,4.34,226,Scribner,1501126342,Add,0,4304,2016-08-02
+717,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Brad Warner,3.93,328,New World Library,1608683885,Religion,0,459,2016-03-15
+718,When Breath Becomes Air,Paul Kalanithi,4.35,229,Random House,081298840X,Nonfiction,0,1047,2016-01-12
+719,When Breath Becomes Air,Paul Kalanithi,4.35,229,Random House,081298840X,Nonfiction,0,1047,2016-01-12
+720,When Breath Becomes Air,Paul Kalanithi,4.35,229,Random House,081298840X,Nonfiction,0,1047,2016-01-12
+721,The Only Pirate at the Party,Lindsey Stirling,4.16,262,Gallery Books,1501119109,Nonfiction,0,330,2016-01-12
+722,"The Rainbow Comes and Goes: A Mother and Son On Life, Love, and Loss",Anderson Cooper,3.84,290,Harper,0062454943,Add,0,315,2016-04-05
+723,Love Warrior,Glennon Doyle Melton,4.08,272,St. Martin’s Press,1250128544,Autobiography,0,3124,2016-09-06
+724,Born to Run,Bruce Springsteen,4.19,528,Simon  Schuster,1501141511,Nonfiction,0,604,2016-09-27
+725,Lab Girl,Hope Jahren,4.02,290,Knopf(first published March 1st 2016),1101874937,Nonfiction,0,1249,2016-04-05
+726,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,3.93,257,Harper,0062300547,Nonfiction,0,1228,2016-06-28
+727,"Hungry Heart: Adventures in Life, Love, and Writing",Jennifer Weiner,3.76,432,Atria Books,1476723400,Autobiography,0,14049,2016-10-11
+728,Buffering: Unshared Tales of a Life Fully Loaded,Hannah Hart,4.27,256,Dey Street Books,0062457519,Nonfiction,0,636,2016-10-18
+729,Shrill: Notes from a Loud Woman,Lindy West,4.2,260,Hachette,0316348406,Nonfiction,0,1542,2016-05-17
+730,A Mother's Reckoning: Living in the Aftermath of Tragedy,Sue Klebold,4.13,305,Crown,1101902752,Nonfiction,0,260,2016-02-15
+731,A Thousand Naked Strangers: A Paramedic's Wild Ride to the Edge and Back,Kevin Hazzard,3.89,261,Scribner,1501110837,Nonfiction,0,48,2016-01-05
+732,Unashamed,Lecrae Moore,4.41,256,B Books(first published May 1st 2016),143368912X,Biography,0,120,2016-05-03
+733,The Sound of Gravel: A Memoir,Ruth Wariner,4.2,336,Flatiron Books,1250077699,Nonfiction,0,429,2016-01-05
+734,Party of One: A Memoir in 21 Songs,Dave  Holmes,4.03,288,Crown Archetype(first published May 24th 2016),0804187983,Autobiography,0,71,2016-06-28
+735,Lust & Wonder,Augusten Burroughs,3.82,304,St. Martin's Press,0312342039,Autobiography,0,6992,2016-03-29
+736,Shoe Dog: A Memoir by the Creator of NIKE,Phil Knight,4.48,400,Scribner(first published April 24th 2016),1501135910,Business,0,314,2016-04-26
+737,Sex Object: A Memoir,Jessica Valenti,3.67,205,Dey Street Books,0062435086,Feminism,0,2070,2016-06-07
+738,Keeping Kyrie,Emily Christensen,4.02,312,Hwc Press(first published September 19th 2016),0997758805,Add,0,13,2016-11-17
+739,A Smile in One Eye: a Tear in the Other,Ralph  Webster,4.09,372,CreateSpace,1533656924,Nonfiction,0,35,2016-06-28
+740,Leonard: My Fifty-Year Friendship with a Remarkable Man,William Shatner,3.79,278,Thomas Dunne Books(first published February 2nd 2016),1250083311,Nonfiction,0,618,2016-02-16
+741,Leonard: My Fifty-Year Friendship with a Remarkable Man,William Shatner,3.79,278,Thomas Dunne Books(first published February 2nd 2016),1250083311,Nonfiction,0,618,2016-02-16
+742,Leonard: My Fifty-Year Friendship with a Remarkable Man,William Shatner,3.79,278,Thomas Dunne Books(first published February 2nd 2016),1250083311,Nonfiction,0,618,2016-02-16
+743,The Romanovs: 1613-1918,Simon Sebag Montefiore,4.05,784,W&N,0297852663,History,0,1556,2016-01-28
+744,First Women: The Grace and Power of America's Modern First Ladies,Kate Andersen Brower,3.7,400,Harper,0062439650,Nonfiction,0,243,2016-04-12
+745,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nathalia Holt,3.88,338,"Little, Brown and Company",0316338923,Nonfiction,0,238,2016-04-05
+746,All the Single Ladies: Unmarried Women and the Rise of an Independent Nation,Rebecca Traister,4.05,339,Simon  Schuster,1476716560,Nonfiction,0,787,2016-03-01
+747,White Trash: The 400-Year Untold History of Class in America,Nancy Isenberg,3.74,460,Viking,0670785970,History,0,284,2016-06-21
+748,Hidden Figures,Margot Lee Shetterly,3.97,368,William Morrow Paperbacks(first published September 6th 2016),0062363603,Nonfiction,0,391,2016-12-06
+749,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Skip Hollandsworth,3.6,321,Henry Holt and Co.,0805097678,Nonfiction,0,94,2016-04-05
+750,Blood Brothers: The Fatal Friendship Between Muhammad Ali and Malcolm X,Randy Roberts,4.15,392,Basic Books,0465079709,History,0,6,2016-02-02
+751,Killing the Rising Sun: How America Vanquished World War II Japan,Bill O'Reilly,4.35,323,Henry Holt and Co.,1627790624,History,1,1896,2016-09-13
+752,"Valiant Ambition: George Washington, Benedict Arnold, and the Fate of the American Revolution",Nathaniel Philbrick,4.07,427,Viking,0525426787,History,0,2081,2016-05-10
+753,The Immortal Irishman: The Irish Revolutionary Who Became an American Hero,Timothy Egan,4.24,384,Houghton Mifflin Harcourt,0544272889,History,0,619,2016-03-01
+754,"Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford",Clint Hill,4.2,464,Gallery Books,1476794138,Add,0,209,2016-05-03
+755,Midnight in Broad Daylight: A Japanese American Family Caught Between Two Worlds,Pamela Rotner Sakamoto,4.31,464,Harper,0062351931,History,0,38,2016-01-05
+756,The Winter Fortress: The Epic Mission to Sabotage Hitler’s Atomic Bomb,Neal Bascomb,4.21,400,Houghton Mifflin Harcourt,0544368053,History,0,262,2016-05-03
+757,"Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939",Adam Hochschild,4.21,464,Houghton Mifflin Harcourt,0547973187,History,0,512,2016-03-29
+758,Shirley Jackson: A Rather Haunted Life,Ruth Franklin,4.28,608,Liveright,0871403137,Biography,0,81,2016-09-27
+759,Eve of a Hundred Midnights: The Star-Crossed Love Story of Two WWII Correspondents and their Epic Escape Across the Pacific,Bill Lascher,3.88,408,William Morrow,0062375202,Nonfiction,0,20,2016-06-21
+760,"Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill",Candice Millard,4.18,400,Doubleday(first published April 12th 2016),0385535732,History,0,1269,2016-09-20
+761,Blood at the Root: A Racial Cleansing in America,Patrick Phillips,4.27,320,W. W. Norton  Company,0393293017,History,0,59,2016-09-20
+762,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,3.95,340,W. W. Norton  Company,0393246183,Nonfiction,0,917,2016-04-25
+763,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,3.95,340,W. W. Norton  Company,0393246183,Nonfiction,0,917,2016-04-25
+764,Are We Smart Enough to Know How Smart Animals Are?,Frans de Waal,3.95,340,W. W. Norton  Company,0393246183,Nonfiction,0,917,2016-04-25
+765,The Gene: An Intimate History,Siddhartha Mukherjee,4.37,592,Scribner,1476733503,Science,0,2810,2016-05-17
+766,Grunt: The Curious Science of Humans at War,Mary Roach,3.94,285,W. W. Norton  Company,0393245446,Nonfiction,0,8390,2016-06-07
+767,The Genius of Birds,Jennifer Ackerman,4.03,352,Penguin Press,1594205213,Nonfiction,0,211,2016-04-12
+768,"The Big Picture: On the Origins of Life, Meaning, and the Universe Itself",Sean Carroll,4.18,480,Dutton,0525954821,Add,0,1104,2016-05-10
+769,"Patient H.M.: A Story of Memory, Madness, and Family Secrets",Luke Dittrich,3.83,440,Random House(first published April 7th 2016),0812992733,Nonfiction,0,35,2016-08-09
+770,Idiot Brain: What Your Head Is Really Up To,Dean Burnett,3.97,336,W. W. Norton  Company(first published May 17th 2016),0393253783,Nonfiction,0,313,2016-07-26
+771,Into the Magic Shop: A Neurosurgeon's Quest to Discover the Mysteries of the Brain and the Secrets of the Heart,James R. Doty,4.25,288,Avery,1594632987,Nonfiction,0,129,2016-02-02
+772,Thing Explainer: Complicated Stuff in Simple Words,Randall Munroe,4.15,64,Houghton Mifflin Harcourt,0544668251,Science,0,2990,2015-11-24
+773,In a Different Key: The Story of Autism,John Donvan,4.3,688,Crown,0307985679,Nonfiction,0,28,2016-01-19
+774,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nathanael Johnson,4.06,224,Rodale Books,1623363853,Nonfiction,0,49,2016-04-05
+775,On Trails: An Exploration,Robert Moor,3.98,352,Simon  Schuster,1476739218,Nonfiction,0,76,2016-07-12
+776,Algorithms to Live By: The Computer Science of Human Decisions,Brian Christian,4.15,368,Henry Holt and Co.,1627790365,Nonfiction,0,320,2016-04-19
+777,Cure: A Journey into the Science of Mind Over Body,Jo Marchant,4.09,320,Crown,0385348150,Add,0,101,2016-01-19
+778,I Contain Multitudes: The Microbes Within Us and a Grander View of Life,Ed Yong,4.19,368,Ecco,0062368591,Science,0,246,2016-08-09
+779,The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future,Kevin Kelly,3.95,336,Viking,English,Nonfiction,0,970,2016-06-07
+780,Time Travel: A History,James Gleick,3.58,336,Pantheon Books,0307908798,Science,0,1187,2016-09-27
+781,Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Cathy O'Neil,3.87,259,Crown,0553418815,Nonfiction,0,208,2016-09-06
+782,Baby Birds: An Artist Looks into the Nest,Julie Zickefoose,4.5,352,Houghton Mifflin Harcourt,0544206703,Nonfiction,0,40,2016-04-12
+783,Citizen Scientist: Searching for Heroes and Hope in an Age of Extinction,Mary Ellen Hannibal,3.71,432,The Experiment(first published August 2016),1615192433,Science,0,20,2016-09-06
+784,Cravings: Recipes for All the Food You Want to Eat,Chrissy Teigen,4.13,240,Clarkson Potter,1101903910,Food,0,352,2016-02-23
+785,Cravings: Recipes for All the Food You Want to Eat,Chrissy Teigen,4.13,240,Clarkson Potter,1101903910,Food,0,352,2016-02-23
+786,Cravings: Recipes for All the Food You Want to Eat,Chrissy Teigen,4.13,240,Clarkson Potter,1101903910,Food,0,352,2016-02-23
+787,Outlander Kitchen: The Official Outlander Companion Cookbook,Theresa Carle-Sanders,4.24,352,Delacorte Press,1101967579,Food,0,25,2016-06-14
+788,The Bob's Burgers Burger Book: Real Recipes for Joke Burgers,Loren Bouchard,4.43,128,Universe,0789331144,Food,0,7,2016-03-22
+789,EveryDayCook,Alton Brown,4.25,304,Ballantine Books,1101885718,Food,0,446,2016-09-27
+790,"Layered: Baking, Building, and Styling Spectacular Cakes",Tessa Huff,4.53,288,Harry N. Abrams,1617691887,Food,0,4,2016-04-19
+791,It's All Easy: Delicious Weekday Recipes for the Super-Busy Home Cook,Gwyneth Paltrow,3.66,288,Grand Central Life & Style(first published April 5th 2016),1455584215,Food,0,234,2016-04-12
+792,Oh She Glows Every Day: Simply Satisfying Plant-Based Recipes to Keep You Glowing from the Inside Out,Angela Liddon,4.26,336,Penguin Canada,0143196510,Food,0,83,2016-09-06
+793,Real Food/Fake Food: Why You Don’t Know What You’re Eating and What You Can Do About It,Larry Olmsted,3.81,318,Algonquin Books,1616204214,Nonfiction,0,13,2016-07-12
+794,Skinnytaste Fast and Slow: Knockout Quick-Fix and Slow-Cooker Recipes for Real Life,Gina Homolka,4.16,304,Clarkson Potter,0553459600,Food,0,71,2016-10-11
+795,Raw. Vegan. Not Gross.: All Vegan and Mostly Raw Recipes for People Who Love to Eat,Laura    Miller,4.31,224,Flatiron Books,1250066905,Food,0,24,2016-05-17
+796,Eating in the Middle: A Mostly Wholesome Cookbook,Andie Mitchell,3.91,240,Clarkson Potter,0770433278,Food,0,154,2016-03-29
+797,"The Vegetable Butcher: How to Select, Prep, Slice, Dice, and Masterfully Cook Vegetables from Artichokes to Zucchini",Cara Mangini,4.09,352,Workman Publishing Company(first published March 22nd 2016),0761180524,Food,0,27,2016-04-19
+798,"Project Smoke: Seven Steps to Smoked Food Nirvana, Plus 100 Irresistible Recipes from Classic (Slam-Dunk Brisket) to Adventurous (Smoked Bacon-Bourbon Apple Crisp)",Steven Raichlen,4.19,304,Workman Publishing Company(first published May 3rd 2016),0761181865,Food,0,49,2016-05-10
+799,"Locally Laid: How We Built a Plucky, Industry-changing Egg Farm - from Scratch",Lucie B. Amundsen,4.02,336,Avery,159463422X,Nonfiction,0,30,2016-03-01
+800,Koreatown: A Cookbook,Deuki Hong,4.09,272,Clarkson Potter,0804186138,Food,0,3,2016-02-16
+801,"The Big Book of Kombucha: Brewing, Flavoring, and Enjoying the Health Benefits of Fermented Tea",Hannah Crum,4.49,400,"Storey Publishing, LLC",161212433X,Food,0,8,2016-03-08
+802,"Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki",Martin Cate,4.55,352,Ten Speed Press,1607747324,Food,0,5,2016-06-07
+803,Appetites: A Cookbook,Anthony Bourdain,4.01,304,Ecco,0062409956,Food,0,3354,2016-10-25
+804,Run Fast. Eat Slow.,Shalane Flanagan,4.32,256,Rodale Books,162336681X,Food,0,26,2016-08-09
+805,Deep Run Roots: Stories and Recipes from My Corner of the South,Vivian Howard,4.51,576,"Little, Brown and Company",0316381101,Food,0,30,2016-10-04
+806,Adulthood Is a Myth,Sarah Andersen,4.12,112,Andrews McMeel Publishing,1449474195,Sequential,1,5442,2016-03-08
+807,Adulthood Is a Myth,Sarah Andersen,4.12,112,Andrews McMeel Publishing,1449474195,Sequential,1,5442,2016-03-08
+808,Adulthood Is a Myth,Sarah Andersen,4.12,112,Andrews McMeel Publishing,1449474195,Sequential,1,5442,2016-03-08
+809,"Saga, Vol. 6",Brian K. Vaughan,4.49,152,Image Comics(first published June 29th 2016),163215711X,Sequential,1,10006,2016-07-05
+810,Ghosts,Raina Telgemeier,4.22,256,Graphix,0545540615,Sequential,0,9052,2016-09-13
+811,"Ms. Marvel, Vol. 5: Super Famous",G. Willow Wilson,4.24,144,Marvel,0785196110,Sequential,1,2490,2016-07-12
+812,"Orange: The Complete Collection, Volume 1",Ichigo Takano,4.43,523,Seven Seas,1626923027,Sequential,1,361,2016-01-26
+813,"Monstress, Vol. 1: Awakening",Marjorie M. Liu,3.95,235,Image Comics,English,Sequential,0,2817,2016-07-19
+814,Dark Night: A True Batman Story,Paul Dini,4.14,129,Vertigo,1401241433,Sequential,0,515,2016-06-21
+815,A Terrible Plan,Noelle Stevenson,4.07,112,BOOM! Box,English,Sequential,0,3082,2016-04-05
+816,"Paper Girls, Vol. 1",Brian K. Vaughan,3.87,144,Image Comics,1632156741,Sequential,0,10006,2016-04-05
+817,Black Panther #1,Ta-Nehisi Coates,3.89,31,Marvel Comics,B01BCPZBWI,Sequential,1,8417,2016-04-06
+818,DC Universe: Rebirth #1,Geoff Johns,4.17,80,DC Comics,B01DKZ7SG0,Sequential,1,1771,2016-05-25
+819,Demons,Kurtis J. Wiebe,3.87,160,Image Comics,1632157357,Sequential,1,746,2016-04-13
+820,Commercial Suicide,Kieron Gillen,3.69,200,Image Comics(first published February 3rd 2016),1632156318,Sequential,1,1264,2016-02-09
+821,Rosalie Lightning: A Graphic Memoir,Tom Hart,4.14,272,St. Martin's Press,1250049946,Sequential,0,63,2016-01-12
+822,"The Vision, Volume 1: Little Worse Than A Man",Tom King,4.26,136,Marvel,0785196579,Sequential,1,1036,2016-07-12
+823,Small Gods: A Discworld Graphic Novel,Terry Pratchett,4.22,128,Doubleday,0857522965,Fantasy,1,32944,2016-07-28
+824,Something New: Tales from a Makeshift Bride,Lucy Knisley,3.91,292,First Second,1626722498,Sequential,0,1346,2016-05-03
+825,Patience,Daniel Clowes,3.86,180,Fantagraphics,1606999052,Sequential,0,1310,2016-03-02
+826,"White Sand, Volume 1",Brandon Sanderson,3.67,160,Dynamic Forces,1606908855,Fantasy,1,119650,2016-06-21
+827,March: Book Three,John             Lewis,4.64,246,Top Shelf Productions,1603094024,Sequential,1,514,2016-08-02
+828,The Princess Saves Herself in This One,Amanda Lovelace,3.89,156,CreateSpace,1532913680,Poetry,1,4055,2016-04-23
+829,The Princess Saves Herself in This One,Amanda Lovelace,3.89,156,CreateSpace,1532913680,Poetry,1,4055,2016-04-23
+830,The Princess Saves Herself in This One,Amanda Lovelace,3.89,156,CreateSpace,1532913680,Poetry,1,4055,2016-04-23
+831,The Universe of Us,Lang Leav,4.11,240,Andrews McMeel Publishing,1449480128,Poetry,0,8978,2016-10-04
+832,Then Come Back: The Lost Neruda Poems,Pablo Neruda,4.2,160,Copper Canyon Press(first published April 12th 2016),English,Poetry,0,7190,2016-05-03
+833,Graffiti (and Other Poems),Savannah Brown,4.3,80,Self Published,9780692631935,Poetry,0,1924,2016-03-04
+834,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Samantha Jayne,3.52,176,Grand Central Publishing,1455565288,Poetry,0,27,2016-04-05
+835,Booked,Kwame Alexander,4.2,320,HMH Books for Young Readers,0544570987,Poetry,0,1643,2016-04-05
+836,Today Means Amen,Sierra DeMulder,4.13,112,Andrews McMeel Publishing,144947411X,Poetry,0,405,2016-02-02
+837,Beautiful and Damned,Robert M. Drake,3.79,324,Vintage Wild(first published 2016),0986262773,Short,0,1560,2016-04-22
+838,Stuff Ive Been Feeling Lately,Alicia Cook,3.83,126,Createspace Independent Pub,1522949259,Poetry,0,237,2016-01-07
+839,La Douleur Exquise,J.R. Rogue,3.95,68,Radiant Sky Publishing Group(first published December 1st 2015),0692715711,Poetry,0,532,2016-05-18
+840,Whiskey Words & a Shovel II,R.H. Sin,4.04,176,Andrews McMeel Publishing,1449480357,Poetry,0,2340,2016-06-07
+841,Night Sky with Exit Wounds,Ocean Vuong,4.31,70,Copper Canyon Press(first published April 5th 2016),B01EEQ8XI6,Poetry,0,1361,2016-05-23
+842,Even this Page is White,Vivek Shraya,4.19,116,Arsenal Pulp Press,1551526417,Poetry,0,369,2016-09-13
+843,The Type,Sarah Kay,4.37,48,Hachette Books(first published February 9th 2016),031638660X,Poetry,0,2025,2016-03-01
+844,Bitter Sweet Love,Michael Faudet,3.67,208,Andrews McMeel Publishing,1449481019,Poetry,0,1242,2016-10-25
+845,The Rain in Portugal,Billy Collins,4.02,160,Random House,0679644067,Poetry,0,951,2016-10-04
+846,Tales of a Receding Hairline,K.W. Peery,4.24,116,GenZ Publishing(first published 2016),B01B1YPOZY,Poetry,0,15,2016-02-05
+847,Look,Solmaz Sharif,4.31,98,Graywolf Press,1555977448,Poetry,0,63,2016-07-05
+848,Field Guide to the End of the World,Jeannine Hall Gailey,4.31,72,Moon City Press,0913785768,Poetry,0,122,2016-09-01
+849,The Darkening Trapeze: Last Poems,Larry Levis,4.23,96,Graywolf Press,1555977278,Poetry,0,48,2016-01-05
+850,Rebel of the Sands,Alwyn Hamilton,3.97,316,Viking,0451477537,Fantasy,1,3525,2016-03-08
+851,Rebel of the Sands,Alwyn Hamilton,3.97,316,Viking,0451477537,Fantasy,1,3525,2016-03-08
+852,Rebel of the Sands,Alwyn Hamilton,3.97,316,Viking,0451477537,Fantasy,1,3525,2016-03-08
+853,Lilac Girls,Martha Hall Kelly,4.29,487,Ballantine Books,1101883073,comment,1,3778,2016-04-05
+854,The Star-Touched Queen,Roshani Chokshi,3.57,342,St. Martin's Griffin,1250085470,comment,1,5377,2016-04-26
+855,Behind Closed Doors,B.A. Paris,3.95,293,St. Martin's Press,1250121000,Thriller,0,8241,2016-08-09
+856,Lily and the Octopus,Steven  Rowley,3.71,307,Simon  Schuster,1501126229,Fiction,0,933,2016-06-07
+857,Like a Boss,Logan Chance,3.88,141,Brothers Chance Books,B01IDN23RI,Romance,1,2961,2016-07-12
+858,The Girl from Everywhere,Heidi Heilig,3.71,454,Greenwillow Books,0062380753,Fantasy,1,1178,2016-02-16
+859,The Serpent King,Jeff Zentner,4.18,373,Crown Books for Young Readers,055352402X,Young,0,1541,2016-03-08
+860,The Mothers,Brit Bennett,3.84,288,Riverhead Books,0399184511,Fiction,0,1006,2016-10-11
+861,A Promise of Fire,Amanda Bouchet,4.09,441,Sourcebooks Casablanca,1492626015,Fantasy,1,1966,2016-08-02
+862,The Reader,Traci Chee,3.79,442,G.P. Putnam's Sons Books for Young,0399176772,Fantasy,1,735,2016-09-13
+863,The Nix,Nathan  Hill,4.09,640,Knopf,110194661X,Fiction,0,1453,2016-08-30
+864,The Sister,Louise Jensen,3.78,336,Bookouture(first published 2016),1786810026,Thriller,0,969,2016-07-07
+865,Behold the Dreamers,Imbolo Mbue,3.95,380,Random House(first published March 15th 2016),0812998480,Fiction,0,900,2016-08-23
+866,Here Comes the Sun,Nicole Y. Dennis-Benn,3.83,352,Liveright,1631491768,Fiction,0,574,2016-07-05
+867,What Belongs to You,Garth Greenwell,3.75,194,"Farrar, Straus and Giroux(first published June 1st 2011)",0374288224,Fiction,0,422,2016-01-19
+868,The Summer that Melted Everything,Tiffany McDaniel,3.93,310,St. Martin's Press,1250078067,Add,0,283,2016-07-26
+869,The City Baker's Guide to Country Living,Louise  Miller,3.8,342,Pamela Dorman Books,1101981202,Fiction,0,627,2016-08-09
+870,Center Ring,Nicole Waggoner,3.9,425,She Writes Press,1631520342,Fiction,1,117,2016-04-26
+871,Beat the Rain,Nigel Jay Cooper,3.94,256,Roundfire Books,1785353640,Fiction,0,61,2016-07-29
+872,Salt to the Sea,Ruta Sepetys,4.36,393,Philomel Books,0399160302,comments,0,11308,2016-02-02
+873,Salt to the Sea,Ruta Sepetys,4.36,393,Philomel Books,0399160302,comments,0,11308,2016-02-02
+874,Salt to the Sea,Ruta Sepetys,4.36,393,Philomel Books,0399160302,comments,0,11308,2016-02-02
+875,The Problem with Forever,Jennifer L. Armentrout,4.0,474,Harlequin Teen,0373212054,Young,0,53448,2016-05-17
+876,The Sun Is Also a Star,Nicola Yoon,4.09,384,Delacorte Press,0553496689,Young,0,11540,2016-11-01
+877,A Thousand Boy Kisses,Tillie Cole,4.27,352,CreateSpace Independent Publishing Platform,1530496195,Young,0,12439,2016-03-14
+878,The Unexpected Everything,Morgan Matson,4.03,519,Simon & Schuster Books for Young Readers,1481404547,Contemporary,0,11891,2016-05-03
+879,This Is Where It Ends,Marieke Nijkamp,3.67,286,Sourcebooks Fire,149262246X,Young,0,1134,2016-01-05
+880,P.S. I Like You,Kasie West,4.08,330,Point,0545850975,Young,0,13091,2016-07-26
+881,A Study in Charlotte,Brittany Cavallaro,3.81,321,Katherine Tegen Books,0062398903,Mystery,1,2104,2016-03-01
+882,Holding Up the Universe,Jennifer Niven,3.89,391,Alfred A. Knopf Books for Young Readers(first published April 4th 2016),0385755929,Young,0,9399,2016-10-04
+883,If I Was Your Girl,Meredith Russo,4.0,280,Flatiron Books,1250078407,Young,0,1108,2016-05-03
+884,The Serpent King,Jeff Zentner,4.18,373,Crown Books for Young Readers,055352402X,Young,0,1541,2016-03-08
+885,The Way I Used to Be,Amber   Smith,4.15,367,Margaret K. McElderry Books,1481449354,Add,0,690,2016-03-22
+886,Symptoms of Being Human,Jeff Garvin,4.17,335,Balzer + Bray,0062382861,Young,0,379,2016-02-02
+887,Love & Gelato,Jenna Evans Welch,4.11,389,Simon Pulse,1481432540,Young,1,1849,2016-05-03
+888,Tell Me Three Things,Julie Buxbaum,4.09,328,Delacorte Press,0553535641,Young,0,2033,2016-04-05
+889,Walk the Edge,Katie McGarry,4.25,426,Harlequin TEEN,0373211627,Young,1,12380,2016-03-29
+890,When We Collided,Emery Lord,3.84,352,Bloomsbury USA Childrens,1619638452,Young,0,2806,2016-04-05
+891,The Female of the Species,Mindy McGinnis,4.21,352,Katherine Tegen Books,0062320890,Add,0,2692,2016-09-20
+892,First Kiss,C.L. Stone,4.51,435,Arcato Publishing,1532702337,Polyamorous,1,3715,2016-04-25
+893,Inferno,Catherine Doyle,4.49,416,Chicken House,1910655236,comment,1,1056,2016-01-07
+894,A Court of Mist and Fury,Sarah J. Maas,4.66,626,Bloomsbury USA Childrens,1619634465,Fantasy,1,117632,2016-05-03
+895,A Court of Mist and Fury,Sarah J. Maas,4.66,626,Bloomsbury USA Childrens,1619634465,Fantasy,1,117632,2016-05-03
+896,A Court of Mist and Fury,Sarah J. Maas,4.66,626,Bloomsbury USA Childrens,1619634465,Fantasy,1,117632,2016-05-03
+897,Lady Midnight,Cassandra Clare,4.43,698,Margaret K. McElderry Books,1442468351,Fantasy,1,194957,2016-03-08
+898,Empire of Storms,Sarah J. Maas,4.56,704,Bloomsbury Children's Books,English,Fantasy,0,117632,2016-09-06
+899,Crooked Kingdom,Leigh Bardugo,4.61,560,Henry Holt and Company,English,Fantasy,0,54184,2016-09-20
+900,The Raven King,Maggie Stiefvater,4.3,439,Scholastic Press,0545424984,comment,1,129705,2016-04-26
+901,Glass Sword,Victoria Aveyard,3.91,444,HarperTeen,0062310666,Fantasy,1,42124,2016-02-09
+902,The Crown,Kiera Cass,3.79,278,HarperTeen,0062392174,Young,1,42561,2016-05-03
+903,Calamity,Brandon Sanderson,4.19,417,Delacorte Press,0385743602,Fantasy,1,119651,2016-02-16
+904,Heartless,Marissa Meyer,4.05,453,Feiwel & Friends,1250044650,Fantasy,0,82696,2016-11-08
+905,A Torch Against the Night,Sabaa Tahir,4.31,452,Razorbill,9780008250447,Fantasy,1,20639,2016-08-30
+906,We Are the Ants,Shaun David Hutchinson,4.19,464,Simon Pulse,1481475207,Young,0,3012,2016-01-19
+907,The Rose & the Dagger,Renée Ahdieh,4.13,416,G.P. Putnam's Sons Books for Young Readers,0399171622,Fantasy,1,12814,2016-04-26
+908,The Winner's Kiss,Marie Rutkoski,4.25,484,"Farrar, Straus and Giroux",0374384738,Fantasy,1,6940,2016-03-29
+909,United as One,Pittacus Lore,4.31,449,HarperCollins,0062387650,Young,1,10414,2016-06-28
+910,Rebel of the Sands,Alwyn Hamilton,3.97,316,Viking,0451477537,Fantasy,1,3525,2016-03-08
+911,Gemina,Amie Kaufman,4.52,659,Alfred A. Knopf Books for Young Readers,0553499165,Science,1,8808,2016-10-18
+912,My Lady Jane,Cynthia Hand,4.1,512,HarperTeen,0062391747,Historical,1,8766,2016-06-07
+913,The Midnight Star,Marie Lu,4.13,316,G.P. Putnam's Sons Books for Young Readers,0399167854,Fantasy,0,104084,2016-10-11
+914,And I Darken,Kiersten White,3.87,475,Delacorte Press,0553522310,Historical,1,10077,2016-06-28
+915,Ivory and Bone,Julie Eshbaugh,3.56,371,HarperTeen,006239925X,comments,1,449,2016-06-07
+916,The Hidden Oracle,Rick Riordan,4.26,375,Disney-Hyperion,148473274X,Fantasy,1,279374,2016-05-03
+917,The Hidden Oracle,Rick Riordan,4.26,375,Disney-Hyperion,148473274X,Fantasy,1,279374,2016-05-03
+918,The Hidden Oracle,Rick Riordan,4.26,375,Disney-Hyperion,148473274X,Fantasy,1,279374,2016-05-03
+919,Pax,Sara Pennypacker,4.04,224,Balzer + Bray,0062377019,Childrens,0,463,2016-02-02
+920,The Hammer of Thor,Rick Riordan,4.35,459,Disney-Hyperion Books,1423160924,Fantasy,0,279374,2016-10-04
+921,An Author's Odyssey,Chris Colfer,4.49,438,"Little, Brown Books for Young Readers",0316383295,Fantasy,1,7041,2016-07-12
+922,Furthermore,Tahereh Mafi,3.93,406,Dutton Books for Young Readers,1101994762,Fantasy,1,26333,2016-08-30
+923,Summerlost,Ally Condie,3.86,249,Dutton Books for Young Readers,0399187197,Childrens,0,13028,2016-03-29
+924,Mr. Lemoncello's Library Olympics,Chris Grabenstein,4.21,288,Random House Books for Young Readers,0553510401,Childrens,1,1677,2016-01-05
+925,The Apprentice's Quest,Erin Hunter,4.42,296,HarperCollins,0062386379,Fantasy,1,6259,2016-03-15
+926,Raymie Nightingale,Kate DiCamillo,3.93,263,Candlewick Press,0763681172,Childrens,0,6168,2016-04-12
+927,The Bronze Key,Holly Black,4.12,249,Scholastic,0545522315,Fantasy,1,31586,2016-08-30
+928,Wolf Hollow,Lauren Wolk,4.23,304,Dutton Books for Young Readers,1101994827,Historical,0,297,2016-05-03
+929,Hour of the Bees,Lindsay Eagar,4.19,368,Candlewick Press(first published March 3rd 2016),0763679224,Childrens,0,126,2016-03-08
+930,The Creeping Shadow,Jonathan Stroud,4.5,445,Disney-Hyperion,1484709675,Fantasy,1,7285,2016-09-13
+931,The Wild Robot,Peter  Brown,4.11,279,"Little, Brown Books for Young Readers",0316381993,Childrens,1,593,2016-04-05
+932,Lily and Dunkin,Donna Gephart,4.26,352,Delacorte Books for Young Readers,0553536745,Childrens,0,178,2016-05-03
+933,Death Weavers,Brandon Mull,4.49,512,Aladdin(first published March 1st 2016),1442497092,Fantasy,1,7336,2016-03-15
+934,Escaping Peril,Tui T. Sutherland,4.6,336,Scholastic Press,0545685443,Fantasy,1,2189,2015-12-29
+935,All Rise for the Honorable Perry T. Cook,Leslie Connor,4.31,400,Katherine Tegen Books,0062333461,Realistic,0,278,2016-03-01
+936,The Dark Talent,Brandon Sanderson,4.08,300,Starscape,0765381400,Fantasy,1,119651,2016-09-06
+937,Dr. Fell and the Playground of Doom,David Neilsen,3.96,240,Crown Books for Young Readers,1101935790,Childrens,0,25,2016-08-09
+938,The Thank You Book,Mo Willems,4.43,64,Hyperion Books for Children(first published 2016),1423178289,Childrens,1,3140,2016-05-03
+939,The Thank You Book,Mo Willems,4.43,64,Hyperion Books for Children(first published 2016),1423178289,Childrens,1,3140,2016-05-03
+940,The Thank You Book,Mo Willems,4.43,64,Hyperion Books for Children(first published 2016),1423178289,Childrens,1,3140,2016-05-03
+941,They All Saw A Cat,Brendan Wenzel,4.04,44,Chronicle Books,1452150133,Childrens,0,65,2016-08-30
+942,Are We There Yet?,Dan Santat,3.97,40,"Little, Brown Books for Young Readers",0316199990,Childrens,0,442,2016-04-12
+943,What Do You Do with a Problem?,Kobi Yamada,4.36,36,Compendium Inc(first published February 1st 2014),1943200009,Childrens,1,189,2016-07-01
+944,"Ida, Always",Caron Levis,4.46,40,Atheneum Books for Young Readers,1481426400,Childrens,0,17,2016-02-23
+945,A Child of Books,Oliver Jeffers,4.13,40,Candlewick Press,0763690775,Add,0,1616,2016-09-06
+946,Nobody Likes a Goblin,Ben Hatke,4.27,40,First Second,1626720819,Childrens,0,866,2016-06-07
+947,"Ada Twist, Scientist",Andrea Beaty,4.48,32,Harry N. Abrams,1419721372,Childrens,1,349,2016-09-06
+948,Otter Goes to School,Sam Garton,4.14,32,Balzer + Bray,0062352253,Childrens,1,143,2016-06-14
+949,We Found a Hat,Jon Klassen,4.24,48,Candlewick Press,0763656003,Childrens,0,1021,2016-10-11
+950,Thunder Boy Jr.,Sherman Alexie,4.2,40,"Little, Brown Books for Young Readers",0316013722,Add,0,5173,2016-05-10
+951,When Green Becomes Tomatoes: Poems for All Seasons,Julie Fogliano,4.27,56,Roaring Brook Press,1596438525,Poetry,0,73,2016-03-01
+952,Worm Loves Worm,J.J. Austrian,4.03,32,Balzer + Bray,0062386336,Childrens,0,12,2016-01-05
+953,Snappsy the Alligator,Julie Falatko,3.81,36,Viking Books for Young Readers,0451469453,Add,1,117,2016-02-02
+954,School's First Day of School,Adam Rex,4.18,40,Roaring Brook Press,1596439645,Childrens,0,607,2016-06-28
+955,"A Hungry Lion, or A Dwindling Assortment of Animals",Lucy Ruth Cummins,4.1,40,Atheneum Books for Young Readers,1481448897,Childrens,0,12,2016-03-15
+956,Twenty Yawns,Jane Smiley,3.83,32,Two Lions,1477826351,Childrens,0,1132,2016-04-01
+957,Flora and the Peacocks,Molly Idle,4.13,40,Chronicle Books,1452138168,Childrens,1,130,2016-05-03
+958,King Baby,Kate Beaton,4.1,32,Arthur A. Levine Books,0545637546,Childrens,0,932,2016-09-13
+959,Maybe Something Beautiful: How Art Transformed a Neighborhood,F. Isabel Campoy,4.23,40,Houghton Mifflin Harcourt,0544357698,Childrens,0,10,2016-04-12
