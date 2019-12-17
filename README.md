@@ -7,12 +7,13 @@ I webscraped data from the top books of 2017-2019 lists on Goodreads.com, as wel
 
 ## Features
 Author Follower’s distribution is skewed right, therefore I performed a log transformation. I also created Dummy variables for all categorical data.
-![]https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png
+![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png =250x250) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ratings.png) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/author_followers.png)
 
 ## Modeling
 ### Base Model
 72.4% of the dataset is non-bestsellers, therefore a Dummy Classifier achieved 72.6% accuracy. Due to the nature of the dataset, we care about Precision, not accuracy. The dataset is skewed towards non bestsellers, therefore high accuracy is not meaningful. High Precision means that if a publisher takes on a book as a result of this model, there is a high chance that the book will become a Bestseller.
 Poor recall means opportunity cost, but for the sake of this model I chose to focus on Precision to ensure a good investment.
+![alt text](
 
 ### SMOTE for Class Imbalance
 I used SMOTE to deal with the class imbalance of Non-bestsellers over bestsellers.
