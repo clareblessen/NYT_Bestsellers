@@ -7,7 +7,10 @@ I webscraped data from the top books of 2017-2019 lists on Goodreads.com, as wel
 
 ## Features
 Author Follower’s distribution is skewed right, therefore I performed a log transformation. I also created Dummy variables for all categorical data.
-![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.pngstyle=centerme) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ratings.pngstyle=centerme) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/author_followers.pngstyle=centerme)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png">
+</p>
+![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ratings.png) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/author_followers.png)
 
 ## Modeling
 ### Base Model
