@@ -7,7 +7,7 @@ I webscraped data from the top books of 2017-2019 lists on Goodreads.com, as wel
 
 ## Features
 Author Follower’s distribution is skewed right, therefore I performed a log transformation. I also created Dummy variables for all categorical data.
-![]
+![]https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png
 
 ## Modeling
 ### Base Model
