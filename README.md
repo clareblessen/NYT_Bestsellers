@@ -21,18 +21,25 @@ Author Follower’s distribution is skewed right, therefore I performed a log tr
 ### Base Model
 72.4% of the dataset is non-bestsellers, therefore a Dummy Classifier achieved 72.6% accuracy. Due to the nature of the dataset, we care about Precision, not accuracy. The dataset is skewed towards non bestsellers, therefore high accuracy is not meaningful. High Precision means that if a publisher takes on a book as a result of this model, there is a high chance that the book will become a Bestseller.
 Poor recall means opportunity cost, but for the sake of this model I chose to focus on Precision to ensure a good investment.
-![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/baselinecm.png)
+<p align="center">
+  <img width="500" height="500" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/baselinecm.png">
+</p>
 
 ### SMOTE for Class Imbalance
 I used SMOTE to deal with the class imbalance of Non-bestsellers over bestsellers.
-![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/class_imbalance.png)
+<p align="center">
+  <img width="400" height="500" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/class_imbalance.png">
+</p>
 
 ### Final Model - Logistic Regression
 Logistic Regression with GridSearch optimized parameters (C = 1, Penalty = 11) was the best resulting model with an ROC of 0.72.
-![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ROCcurve.png)
-Precision: 71%
-Accuracy: 72%
-Recall: 49%
+<p align="center">
+  <img width="500" height="500" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ROCcurve.png">
+</p>
+<br/>
+Precision: 71% <br/>
+Accuracy: 72% <br/>
+Recall: 49% <br/>
 F1: 5%
 
 ## Feature Importance
