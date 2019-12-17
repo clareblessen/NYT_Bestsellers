@@ -10,7 +10,12 @@ Author Follower’s distribution is skewed right, therefore I performed a log tr
 <p align="center">
   <img width="500" height="400" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png">
 </p>
-![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/pages.png) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ratings.png) ![alt text](https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/author_followers.png)
+<p align="center">
+  <img width="500" height="400" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/ratings.png">
+</p>
+<p align="center">
+  <img width="500" height="400" src="https://github.com/clareblessen/NYT_Bestsellers/blob/master/Images/author_followers.png">
+</p>
 
 ## Modeling
 ### Base Model
